@@ -11,30 +11,34 @@ RouteMatch is a real-time **ride-sharing** desktop application built with Java s
 ## 📌 How It Works
 
 **Example:**
-Kasun is riding his bike from Campus to Galle at 4:30 PM. Nimal needs to go from Campus to Galle at around 4:00 PM but has no vehicle.
+Kasun is driving from Colombo to Kandy at 5:00 PM. Nimal needs to go from Colombo to Kandy at around 5:10 PM but has no vehicle.
 
-1. Kasun posts an **offer**: `Campus → Galle, 4:30 PM, Bike, 1 seat`
-2. Nimal posts a **request**: `Campus → Galle, 4:00 PM, ±30 minutes`
-3. The **server** finds all offers on the same route within Nimal's time window and shows them, sorted by the closest time.
+1. Kasun posts an **offer**: `Colombo → Kandy, 5:00 PM, Car, 1 seat`
+2. Nimal posts a **request**: `Colombo → Kandy, 5:10 PM, ±30 minutes`
+3. The **server** finds all offers on the same route inside Nimal's time window and sends them back, sorted by the closest time.
 4. Nimal picks Kasun's offer and books the seat.
 5. Kasun gets an instant notification, and the seat count updates live on everyone's screen.
 
-RouteMatch works with **any vehicle** — car, tuk-tuk, van, motorbike, etc.
+RouteMatch works with **any vehicle** — car, tuk-tuk, van or motorbike.
+
+Every screen shows **real data** created by users through the server. Nothing is hard-coded.
 
 ---
 
 ## ✨ Features
 
-- **User login** with a username
-- **Post a ride offer** — start, destination, departure time, vehicle type, available seats
-- **Post a ride request** — start, destination, preferred time, flexible time window (±15 / 30 / 60 minutes)
-- **Time-window matching** — shows all offers inside the rider's time window, sorted by the closest departure time
-- **Seat booking** — the rider chooses an offer and books a seat
-- **Safe concurrent booking** — if two riders try to book the last seat at the same time, only one succeeds (handled with locks)
-- **Live notifications** — the driver is notified instantly when someone books
-- **Live updates** — seat counts update on all connected clients in real time
-- **Cancellation** — riders can cancel bookings and drivers can cancel offers; affected users are notified
-- **Server dashboard** (password protected) — shows online users, active offers and requests, matches, and a live activity log
+- **Sign in** with a username, server IP and port
+- **Home** — live list of ride offers with a Sri Lanka map that draws the selected route
+- **Offer a ride** — start, destination, departure time, vehicle, seats and a pickup note, with a live route preview
+- **Find a ride** — start, destination, preferred time and a flexible window (±15 / 30 / 60 minutes)
+- **Time-window matching** — the server returns every offer inside the window, closest departure first
+- **Seat booking** — book or cancel a seat in one click
+- **Safe concurrent booking** — if two riders try to book the last seat at the same time, only one succeeds (`ReentrantLock` per offer)
+- **Live notifications** — drivers get notified when someone books or cancels, riders get notified when a new matching ride is posted
+- **Live updates** — seat counts and offers update on all connected clients in real time
+- **My rides** — your bookings, your offers with passengers, and the notification list
+- **Page loading animation** between every page
+- **Server dashboard** (password protected) — online users, active offers, open requests, matches, worker threads, connected clients and a live activity log
 
 ---
 
@@ -44,10 +48,22 @@ RouteMatch works with **any vehicle** — car, tuk-tuk, van, motorbike, etc.
 |---|---|
 | **Socket programming (TCP)** | All communication between clients and the server uses `ServerSocket` and `Socket` |
 | **Client-server architecture** | One central server, many client applications |
-| **Multithreading** | The server creates a separate thread for each connected client |
-| **Synchronization** | Shared offer/request lists and seat booking are protected with locks to prevent race conditions |
-| **Custom protocol design** | Plain-text message protocol, e.g. `OFFER\|Campus\|Galle\|16:30\|BIKE\|1` |
-| **File system** | Server activity logs are written to files |
+| **Multithreading** | The server runs each connected client on its own worker thread from a thread pool (`ExecutorService`) |
+| **Synchronization** | Seat booking is protected with a `ReentrantLock` per offer; shared data uses `ConcurrentHashMap` and `CopyOnWriteArrayList` |
+| **Custom protocol design** | Plain-text message protocol, e.g. `OFFER\|col\|kan\|17:00\|CAR\|3\|Main gate` |
+| **File system** | Server activity is written to `server.log` |
+
+### Message protocol
+
+| Client → Server | Server → Client |
+|---|---|
+| `LOGIN\|name` | `WELCOME\|name` |
+| `OFFER\|from\|to\|HH:mm\|vehicle\|seats\|note` | `OFFER_OK\|id` |
+| `FIND\|from\|to\|HH:mm\|window` | `MATCHES\|offers` |
+| `BOOK\|id` | `BOOK_OK\|id` or `BOOK_FAIL\|id\|reason` |
+| `CANCEL_BOOKING\|id` | `OFFERS\|offers` (broadcast) |
+| `CANCEL_OFFER\|id` | `STATS\|online\|offers\|requests\|matches` (broadcast) |
+| `LOGOUT` | `NOTIFY\|kind\|text`, `ERROR\|message` |
 
 ---
 
@@ -55,11 +71,11 @@ RouteMatch works with **any vehicle** — car, tuk-tuk, van, motorbike, etc.
 
 - **Java 17**
 - **java.net** — `ServerSocket`, `Socket` (TCP)
-- **java.util.concurrent** — `ExecutorService`, `ConcurrentHashMap`, `ReentrantLock`
+- **java.util.concurrent** — `ExecutorService`, `ConcurrentHashMap`, `ReentrantLock`, `AtomicInteger`
 - **java.time** — time-window calculations
-- **Java Swing** + **FlatLaf** — desktop GUI
-- **IntelliJ IDEA**
-- **Git & GitHub**
+- **Java Swing + Java2D** — custom-painted desktop GUI (no external libraries)
+- **Inter Tight** font (SIL Open Font License)
+- **IntelliJ IDEA**, **Git & GitHub**
 
 ---
 
@@ -68,9 +84,11 @@ RouteMatch works with **any vehicle** — car, tuk-tuk, van, motorbike, etc.
 ```
 RouteMatch/
 ├── src/
-│   ├── server/      # Server, ClientHandler, MatchEngine, ServerDashboard
-│   ├── client/      # ClientApp and GUI screens (Login, Offer, Request, Match List)
-│   └── common/      # Shared classes: Offer, Request, Protocol
+│   ├── common/   # Protocol, Offer, Request, Vehicle, Places (map places + road routes)
+│   ├── server/   # Server, ClientHandler, MatchEngine, ServerLog, ServerDashboard
+│   ├── ui/       # Theme, fonts, icons, logo, buttons, fields, loader, toast
+│   └── client/   # ClientApp, Connection, NavBar, MapPanel and the pages
+│                 # LoginScreen, HomeScreen, OfferScreen, RequestScreen (Find a ride), MatchListScreen (My rides)
 ├── config.properties   # Local only — not pushed to GitHub
 ├── .gitignore
 └── README.md
@@ -91,13 +109,14 @@ Create a file named `config.properties` in the project root:
 ```
 admin.password=<your-admin-password>
 ```
-> This file is listed in `.gitignore` and is never pushed to GitHub. Ask a team member for the password.
+You can also add `server.port=5000` to change the port. This file is listed in `.gitignore` and is never pushed to GitHub.
 
 ### 3. Start the server
-Run `server/Server.java` (enter the admin password to open the dashboard).
+Run `server/Server.java`. The dashboard opens and asks for the admin password. The header shows the server's IP address.
 
 ### 4. Start one or more clients
-Run `client/ClientApp.java`. Open several clients to test multiple users at the same time.
+Run `client/ClientApp.java`. Enter a username, the server IP (`localhost` on the same computer) and port `5000`, then press **Connect**.
+Open several clients, or run clients on other laptops in the same Wi-Fi network, to test multiple users at the same time.
 
 ---
 
@@ -116,9 +135,3 @@ Run `client/ClientApp.java`. Open several clients to test multiple users at the 
 **EC5205 – Operating Systems and Network Programming**
 Department of Electrical and Information Engineering
 Faculty of Engineering, University of Ruhuna
-
----
-
-## 🚧 Status
-
-This project is currently **under development**.

@@ -497,7 +497,7 @@ public class MapPanel extends JPanel {
         seaLabel(g, "BAY OF BENGAL", 1080, 560, w, h);
         seaLabel(g, "GULF OF MANNAR", -60, 560, w, h);
         boolean minor = zoom >= 1.7;
-        for (Places.Place p : Places.all()) {
+        for (Places.Place p : Places.graph()) {
             if ((!p.major && !minor) || p.name.equals(fromLabel) || p.name.equals(toLabel)) {
                 continue;
             }

@@ -1,0 +1,2374 @@
+Aanandapuram|9.3|80.6833|Northern
+Abakolawewa|6.18333|80.8|Southern
+Abasingammedda|7.31667|80.66667|Central
+Abesekaragama|6.21667|80.9|Southern
+Abeyesekaragama|6.21667|80.9|Southern
+Acharigama|8.216|80.233|Southern
+Acharigoda|6.33333|80.23333|Southern
+Achchankulam|8.83333|79.93333|Northern
+Achchuveli|9.76667|80.1|Northern
+Achelu|9.73333|80.06667|Northern
+Adaichakal|7.6|81.6|Northern
+Adampam|8.93333|80|Northern
+Adampan|8.9418|80.0013|Northern
+Adampanai|8.75|80.96667|Northern
+Adampantalvu|8.9|80.05|Northern
+Adappankulam|8.61667|80.35|Northern
+Addarawellana|6.01667|80.4|Southern
+Adhikarigama|7.21917|80.77806|Central
+Adiyakulam|8.8|80.01667|Northern
+Adukkalamoddai|8.88333|80.01667|Northern
+Agala Kanda|6.18333|80.2|Southern
+Agalaboda|6.2|80.66667|Southern
+Agalakumbura|7.11667|80.93333|Central
+Agalawatta|7.4798|80.6059|Central
+Agalawatte|6.53333|80.15|Western
+Agaliya|6.18333|80.2|Southern
+Agappola|7.13333|80.75|Central
+Aggarahere|6.13333|80.78333|Southern
+Agrakande Estate|6.895|80.6894|Central
+Agrapatana|6.86667|80.7|Central
+Ahangama|5.98333|80.36667|Southern
+Ahungalla|6.31444|80.03333|Southern
+Akarahaduwa|7.6526|80.662|Central
+Akattikkulam|8.8|80.06667|Northern
+Akkaraipattu|7.21667|81.85|Eastern
+Akkarawatta|7.3841|80.5238|Central
+Akkarayankulam|9.34222|80.33444|Northern
+Akuramboda|7.6467|80.6014|Central
+Akurambodwatta|7.6364|80.6221|Central
+Akurana|7.365|80.61722|Central
+Akuressa|6.09639|80.48083|Southern
+Aladeniya|7.33333|80.56667|Central
+Alagalla Kondagama|7.3|80.48333|Central
+Alagalla Pahalagama|7.31667|80.46667|Central
+Alagoda|7.36667|80.58333|Central
+Alakagama|7.5547|80.5792|Central
+Alakola-anga|7.5076|80.6025|Central
+Alakola-ela|7.65|80.61667|Central
+Alakoladeniya|7.331|80.6609|Central
+Alakolagalagama|7.0677|81.2123|Uva
+Alakolamada|7.4758|80.6828|Central
+Alakolamaditta|7.3|80.7|Central
+Alampil|9.15|80.85|Northern
+Alanduwaka|7.25|80.55|Central
+Alankeny|9.45|80.25|Northern
+Alankerni|7.96667|81.46667|Eastern
+Alaveddy|9.76778|80.00556|Northern
+Alaveddy North|9.77889|80.00111|
+Alawattegama|7.3587|80.5505|Central
+Alawatugama|7.17|80.7665|Central
+Alawatugoda|7.4028|80.6103|Central
+Alayaya|7.45|80.63333|Central
+Alhentennawatta|7.5653|80.6507|Central
+Aliyavalai|9.58639|80.44111|Northern
+Alkemada|7.2081|80.5812|Central
+Allaippiddi|9.61667|79.96667|Northern
+Allippalai|9.58333|80.3|Northern
+Alubendiyaya|7.76667|80.66667|Central
+Alugolla|7.1493|80.5344|Central
+Alugolla Matale District|7.674|80.6332|Central
+Alupotawela|7.3976|80.6586|Central
+Alutgama|7.3116|80.5331|Central
+Alutgama Mahakumburegammedda|7.36667|80.63333|Central
+Aluthgama|6.43333|80|Western
+Alutnuwara Town|7.31667|80.98333|Central
+Alutwewa|7.78333|80.51667|Central
+Aluvihare|7.5|80.61667|Central
+Aluvihare Colony|7.5026|80.6171|Central
+Aluwihare|7.5001|80.6212|Central
+Alvai|9.81667|80.2|Northern
+Alwatta|7.4432|80.662|Central
+Amaithipuram|9.28333|80.31667|Northern
+Ambadeniya|7.18333|80.46667|Sabaragamuwa
+Ambagahahena|7.3871|80.4976|Central
+Ambagamuwa|7.01667|80.46667|Central
+Ambagaspitiya|7.08333|80.06667|Western
+Ambagastenna|7.2136|80.5501|Central
+Ambakamam|9.21667|80.5|Northern
+Ambalangoda|6.235|80.055|Southern
+Ambalantota|6.225|80.0567|Southern
+Ambalapitiya|7.11667|80.51667|Central
+Ambaliyadda|7.01667|80.9|Central
+Ambalkulam|9.36667|80.38333|Northern
+Ambalpuram|9.11667|80.38333|Northern
+Ambanpola|7.917|80.242|
+Ambanwala|7.21667|80.51667|Central
+Ambaoruwa|7.35|80.46667|Central
+Ambarapola|7.2149|80.5686|
+Ambatalawa|7.03333|80.66667|Central
+Ambatenna|7.349|80.622|Central
+Ambawa|7.31667|80.45|Central
+Ambawela|6.86667|80.81667|Central
+Ambepussa|7.25|80.2|Sabaragamuwa
+Ambetenna|7.06667|80.8|Central
+Ambewela|6.89806|80.80222|Central
+Ambokka|7.6381|80.5773|Central
+Ammivaithakulam|9.15|80.35|Northern
+Ampalaperumalkulam|9.26667|80.28333|Northern
+Ampalavanpokkanai|9.35|80.73333|Northern
+Ampan|9.73333|80.26667|Northern
+Ampara|7.28333|81.66667|Eastern
+Ampitigoda|7.06667|80.78333|Central
+Amunewala|7.6|80.85|Central
+Anaicoddai|9.70333|79.99028|
+Anaivilunthankulam|9.33333|80.31667|Northern
+Anamaduwa|7.8775|80.01444|North Western
+Ananthapuram|9.38333|80.4|Northern
+Andagala|7.36667|80.5|Central
+Andawala|7.616|80.6783|Central
+Andawela|7.61667|80.66667|Central
+Andideniya|7.35|80.88333|Central
+Andungama Palkumbura|7.35|80.55|Central
+Andurubebila|7.26667|80.56667|Central
+Angammana|7.3698|80.702|Central
+Angoda|6.93667|79.92694|Western
+Angunawala|7.23333|80.58333|Central
+Angunawela|7.23333|80.58333|Central
+Anguruwela|7.25|80.83333|Central
+Aninchiyankulam|9.11667|80.3|Northern
+Ankande Colony|7.578|80.6441|Central
+Ankendagolla|7.13333|80.8|Central
+Ankumbura|7.43333|80.56667|Central
+Ankumbura Pallegama|7.43333|80.56667|Central
+Ankumbura Udagama|7.41667|80.56667|Central
+Aparekka|6|80.6|Southern
+Appallagoda|7.2|80.55|Central
+Araly|9.75|79.9167|Northern
+Arambagama|7.33333|80.56667|Central
+Arambegama|7.33333|80.56667|Central
+Arambepola|7.4|80.61667|Central
+Aranayaka|7.1429|80.4622|Sabaragamuwa
+Aranpitiya|7.1|80.88333|Central
+Arattana|7.21667|80.56667|Central
+Arawwala|6.83078|79.93503|Western
+Arawwawala|7.23333|80.56667|Central
+Ariyalai|9.65|80.06667|Northern
+Arugam|6.85|81.83333|Eastern
+Arukuveli|9.6152|80.1655|Northern
+Arukwatta|6.83333|80.1|Central
+Aruppola|7.3|80.65|
+Asgiriya|7.298|80.6249|Central
+Aswalapitiya|7.28333|80.73333|Central
+Asweddunwela|7.3|80.8|Central
+Atabage|7.13333|80.61667|Central
+Atabage Pallegama|7.13333|80.61667|Central
+Aththai|9.80272|80.21296|Northern
+Athurugiriya|6.89222|79.94278|Western
+Atirahapitiya|7.43333|80.65|Central
+Attanagalla|7.1|80.11667|Western
+Attanakumbura|7.08333|80.8|Central
+Attaragama|7.35|80.58333|Central
+Attaragama Hunnanoya|7.35|80.58333|Central
+Avissawella|6.95306|80.21833|Western
+Awulbodale|7.31667|80.46667|Central
+Babarenda Central|5.96667|80.66667|Southern
+Babarenda North|5.96667|80.65|Southern
+Babarenda South I|5.96667|80.65|Southern
+Babarenda South II|5.96667|80.65|Southern
+Baburugama|7.43333|80.25|
+Badabadda|7.3211|80.0166|Southern
+Badalagama|7.13333|80.78333|Central
+Badalgammedda|7.4|80.63333|Central
+Badalgeda|5.96667|80.63333|Southern
+Baddamulla|7.41667|80.91667|Central
+Baddegama|6.16667|80.18333|Southern
+Baddegama East|6.16667|80.2|Southern
+Baddegama North|6.16667|80.18333|Southern
+Baddegama South|6.15|80.16667|Southern
+Baduraliya|6.51667|80.23222|Western
+Bahiragaldowa|7.16667|80.93333|Central
+Bahirawakanda|7.3|80.61667|Central
+Bakamuna|7.76667|80.8167|North Central
+Bakmeegolla|7.53333|80.43333|
+Balagahatenna|7.33333|80.76667|Central
+Balana|7.2722|80.4882|Central
+Balangoda|6.65|80.68333|Sabaragamuwa
+Balapitiya|6.26667|80.03333|Southern
+Balawatgoda|7.33333|80.58333|Central
+Bambalapitiya|6.88889|79.85667|Western
+Bambarabedda|7.25|80.85|Central
+Bambarabedde Devainnegama|7.25|80.85|Central
+Bambaradeniya|7.2|80.56667|Central
+Bambaragahawatta|7.76667|80.71667|Central
+Bambaragaleyaya|7.86667|80.63333|Central
+Bambaragama|7.1389|80.7372|Central
+Bambaragaswewa|7.78333|80.53333|Central
+Bambawa|7.75|80.56667|Central
+Bamunupola|7.36667|80.6|Central
+Bananga|7.36667|80.53333|Central
+Bandarawela|6.83333|80.98528|Uva
+Barandare|7.38333|80.46667|Central
+Barathinagar|9.11667|80.28333|Northern
+Barathipuram|9.35|80.4|Northern
+Barigama|7.33333|80.58333|Central
+Batadanduwela|7.5|80.78333|Central
+Batagalla|7.25|80.66667|Central
+Batagoda|7.2836|80.5201|
+Batagolla|7.2411|80.6757|Central
+Batapola|6.21667|80.11667|
+Battaramulla|6.90167|79.91917|Western
+Batugedara|6.68333|80.41667|Sabaragamuwa
+Batumulla|7.41667|80.93333|Central
+Batuwatta|7.05278|79.93472|Western
+Bebalagama|7.38333|80.51667|Central
+Beddegama|6.1688|80.1794|Central
+Beliatta|6.03333|80.75|Southern
+Beligamuwa|7.71667|80.55|Central
+Belihuloya|6.71806|80.76722|Sabaragamuwa
+Beliyakanda|7.8|80.56667|Central
+Beragala|6.76399|80.91492|Uva
+Beravilla|7.11667|80.46667|Central
+Berawila|7.11667|80.46667|Central
+Beruwala|6.46667|79.98333|Western
+Bibile|7.16|81.22|Uva
+Biyagama|6.93333|79.98333|
+Bloemendhal|6.95528|79.86972|Western
+Bobella|7.73333|80.65|Central
+Bodikotuwa|7.5|80.71667|Central
+Bogahakumbura|6.86194|80.87639|Uva
+Bogahapitiya|7.53333|80.6|Central
+Bogambara|7.29015|80.63428|Central
+Bogawantalawa|6.78333|80.66667|
+Bogawela|7.01667|80.65|Central
+Bokalawela|7.35|80.6|Central
+Bokkawala|7.38333|80.55|Central
+Bokundara|6.8155|79.9202|Western
+Bolagandawela|7.11667|80.95|Central
+Bolawatta|7.3|79.85|
+Bolepe|7.23333|80.71667|Central
+Bombure|7.28333|80.81667|Central
+Bomiriya|6.9399|80.0046|
+Bomure|7.28333|80.81667|Central
+Boossa|6.07333|80.1578|Southern
+Boowelikada|7.205|80.5671|Central
+Bopana|7.3|80.9|Central
+Bopegammedda|7.36667|80.63333|Central
+Bopitiya|7.0767|79.8585|Central
+Boragahamaditta|7.18333|80.78333|Central
+Boralanda|6.82889|80.89417|Uva
+Boralesgamuwa|6.85|79.9|Western
+Borella|6.91472|79.87778|Western
+Boruwagama|7.06667|80.63333|Central
+Bothale Ihalagama|7.24722|80.1625|Western
+Botota|7.36667|80.58333|Central
+Bowala|7.16667|80.56667|Central
+Bowatura|7.15|80.56667|Central
+Boyagama|7.2458|80.5754|Central
+Brookside|7.01667|80.85|Central
+Bulatwelkandura|7.33333|80.96667|Central
+Bulugahapitiya|7.1248|80.7658|Sabaragamuwa
+Bulugolla|7.1|80.86667|Central
+Bulukohotenna|7.36667|80.6|Central
+Bulumulla|7.26667|80.56667|Central
+Butalanda|7.36667|80.88333|Central
+Buttala|6.7601|81.24729|Uva
+Buwelikada|7.21667|80.56667|Central
+Campion|6.78333|80.7|Central
+Chandrapuram|9.68861|80.14278|Northern
+Chankanai|9.75|79.96667|Northern
+Chavakacheri|9.65|80.15|Northern
+Cheddikulam|8.66667|80.3|Northern
+Chemmalai|9.15|80.86667|Northern
+Chempangundu|9.43333|80.21667|Northern
+Chempianpattu|9.65|80.36667|Northern
+Chenkaladi|7.78333|81.6|Eastern
+Chettiyar Kurichi|9.5|80.25|Northern
+China Garden|6.03333|80.21667|Southern
+Chulipuram|9.76667|79.9333|Northern
+Chundikuli|9.65|80.06667|Northern
+Chunnakam|9.75|80.01667|Northern
+Chunnavil|9.38333|80.18333|Northern
+Clodagh Eastern Colony|7.53333|80.66667|Central
+Colombuthurai|9.65|80.03333|Northern
+Companiwatta|6.25|81.26667|Southern
+Companywatta|6.46667|81.66667|Southern
+Dabarella|6.25|80.83333|Southern
+Dadahogama|7.31667|80.6|Central
+Dadalla|6.05|80.2|Southern
+Dadohagama|7.31667|80.6|Central
+Dagampitiya|6.98333|80.46667|Central
+Daganapothaha|7.98333|80.73333|Southern
+Dagewilla|7.58333|80.83333|Central
+Dalgahakele|6.33333|80.05|Southern
+Dalhousie|6.81667|80.51667|Central
+Dalugama|6.58|79.54|Western
+Dalupitiya|7|79.93333|
+Daluwakgoda|6.13333|80.7|Southern
+Daluwatumulla|6.18333|80.08333|Southern
+Daluwela|7.494|80.5846|Central
+Dambagahamada|7.58333|80.75|Central
+Dambagahamuduna|7.56667|80.66667|Central
+Dambagolla|7.5413|80.7191|Central
+Dambalagala Colony|7.56667|80.68333|Central
+Dambarawa|7.2984|80.6898|Central
+Dambawatawana|7.76667|80.56667|Southern
+Dambullagama|7.88333|80.65|Central
+Dammala|6.3|80.38333|Southern
+Dammanatenna|7.61667|80.73333|Southern
+Dammantenna|7.61667|80.73333|Southern
+Damunumulla|7.78333|80.56667|Central
+Damunupola North|7.33333|80.43333|Central
+Dandenikumbura|7.46667|80.86667|Central
+Dandugama|7.1|79.88333|Western
+Dankanda|7.53333|80.7|Central
+Dankotuwa|7.29667|79.8883|
+Danowita|7.20278|80.17583|Western
+Danture|7.28333|80.53333|Central
+Daskara|7.2038|80.5688|Central
+Daulagala|7.23333|80.56667|Central
+Dawatagahamulatenna|7.38333|80.61667|Central
+Dedunupitiya|7.33333|80.43333|Central
+Dehianga|7.3|80.55|Central
+Dehiange|7.3|80.55|Central
+Dehideniya|7.2775|80.585|Central
+Dehideniya Madige|7.31667|80.45|Central
+Dehigahatule|7.18333|80.91667|Central
+Dehigama|7.4842|80.1832|Central
+Dehintalawa|7.06667|80.65|Central
+Dehipagoda|7.2|80.6|Central
+Dehipitiya|7.43333|80.63333|Central
+Dehiwala|6.86667|79.88333|Western
+Dehiwala-Mount Lavinia|6.83972|79.87583|Western
+Deiannewela|7.28333|80.63333|Central
+Deiyannewela|7.28333|80.63333|Central
+Dekinda|7.01667|80.51667|Central
+Delgasyaya|7.38333|80.53333|Central
+Deliwela|7.2417|80.557|Central
+Delmada|7.2|80.56667|Central
+Delpatkada|7.13333|80.73333|Central
+Delpawana|7.56667|80.68333|Central
+Delpitiya|7.13333|80.6|Central
+Deltota|7.16667|80.7|Central
+Dematagoda|6.93|79.87778|Western
+Dembatagastenna|7.36667|80.63333|Central
+Dembawa|7.71667|80.56667|Central
+Demodara|6.9|81.05|Uva
+Demunapola North|7.33333|80.43333|Central
+Denapitiya|7.28333|80.85|Central
+Denike|7.13333|80.76667|Central
+Deniyaya|6.34361|80.56389|Southern
+Deraniyagala|6.93333|80.33333|Sabaragamuwa
+Devahandiya West|7.26667|80.91667|Central
+Devalegama|7.28355|80.32199|
+Devinnegama|7.25|80.85|Central
+Devita|7.13333|80.58333|Central
+Dewahandiya|7.25|80.9|Central
+Dewahandiya East|7.25|80.9|Central
+Dewahandiya West|7.26667|80.91667|Central
+Dewahuwa|7.82889|80.57306|Central
+Dewalapola|7.16833|79.99444|Western
+Dewatagahamulatenna|7.38333|80.61667|Central
+Dickoya|6.86667|80.6|Central
+Dickwella|5.96667|80.695|Southern
+Diddeniya|7.3764|80.581|North Western
+Digahawatura|7.36667|80.65|Central
+Digala|7.3781|80.6336|Central
+Digana|6.6118|80.3661|Central
+Dihintalawa|7.06667|80.65|Central
+Dikirillagolla|7.35|80.65|Central
+Dikoya|6.86667|80.6|Central
+Dimbula|6.872|80.715|Central
+Dimbulgahakotuwa|7.55|80.61667|Central
+Dimbulgoda|6.16667|80.8|Central
+Dimbulkumbura|7.15|80.8|Central
+Divulapitiya|7.21667|80.01556|Western
+Divulgaskotuwa|7.73333|80.56667|Central
+Diyapalagoda|7.28333|80.56667|Central
+Diyatalawa|6.8|80.96694|Uva
+Dodamitiyawa|7.1|80.86667|Central
+Dodandeniya|7.4632|80.6033|Central
+Dodanduwa|6.09667|80.14556|Southern
+Dodankumbura|7.38333|80.48333|Central
+Dodanwala|7.28333|80.55|Central
+Dolapihilla|7.38333|80.58333|Central
+Dolosbage|7.08333|80.46667|Central
+Dolosbage Bazaar|7.08333|80.46667|Central
+Dombagammana|7.3816|80.5697|Central
+Dombagasdeniya|7.46667|80.6|Central
+Dombagoda|7.4284|80.6531|Central
+Dombawela|7.5566|80.6155|Central
+Dombemada|7.38333|80.35|Sabaragamuwa
+Dondra|5.9234|80.5897|Southern
+Doragomuwa|7.36667|80.65|Central
+Dorakumbura|7.5108|80.6259|Central
+Doranegama|7.36667|80.56667|Central
+Dowita|7.05|80.63333|Central
+Dowitagammedda|7.05|80.63333|Central
+Dullewa|7.5|80.6|Central
+Dulwala|7.35|80.56667|Central
+Dumbukola|7.43333|80.63333|Central
+Dunagaha|7.24222|79.96861|Western
+Dunkumbura|7.35|80.48333|Central
+Dunukaula|7.13333|80.63333|Central
+Dunukebedda|7.06667|80.78333|Central
+Dunukeula|7.13333|80.63333|Central
+Dunukewatta|7.3956|80.4238|Central
+Dunuwila|7.381|80.6432|Central
+Dunuwila Megodagama|7.25|80.83333|Central
+Eachalawakkai|8.93333|80|Northern
+Ebbawala|7.68333|80.61667|Central
+Edanduwawa|7.2335|80.462|Central
+Egodabedda|6.2|80.65|Southern
+Egodaduwa|6.35|80.03333|Southern
+Egodawela|7.0301|80.6601|Southern
+Ehalagastenna|7.08333|80.8|Central
+Ehalamalpe|7.13333|80.78333|Central
+Ehelakanda|6.21667|80.6|Southern
+Ehelape|6.15|80.41667|Southern
+Ehelapola|7.63333|80.61667|Southern
+Ehelepola|7.63333|80.61667|Southern
+Eheliyagoda|6.8486|80.26|Sabaragamuwa
+Ekala|7.06667|79.9131|Western
+Ekamuthugama|8.1978|81.0045|Central
+Ekiriya|7.1453|80.7516|Central
+Ekkassa|6.11667|81|Southern
+Eladetta|7.21667|80.5833|Central
+Elamaldeniya|7.21333|80.58222|
+Eldeniya|7.0123|79.9744|Western
+Elephant Pass|9.54722|80.40889|Northern
+Elgama|7.11667|80.8|Central
+Elhanyaya|7.68333|80.65|Central
+Elikewela|7.21667|80.73333|Central
+Elkaduwa|7.41667|80.68333|Central
+Ellakkala|7.15|80.11667|
+Ellauda|6.95|80.5|Central
+Ellekumbura|7.1|80.9|Central
+Elliyadda|7.36667|80.75|Central
+Elotuwa|7.35|80.5|Central
+Elpitiya|6.2908|80.1626|Southern
+Embekka|7.21667|80.56667|Central
+Embilimigama|7.26667|80.56667|Central
+Embilmeegama|7.26667|80.56667|Central
+Embitiyawa|7.51667|80.6|Central
+Embulambe|7.8|80.63333|Central
+Embulpure|7.33333|80.6|Central
+Enasalmada|7.45|80.56667|Central
+Endarutenna|7.33333|80.58333|Central
+Enderamulla|6.98333|79.91667|Western
+Enkendagolla|7.26667|80.66667|Central
+Eppawala|8.1425|80.40278|North Central
+Eramudugolla|7.25|80.66667|Central
+Eramuduliyadda|7.31667|80.51667|Central
+Eravur|7.77833|81.60389|Eastern
+Erawula Pahalagama|7.83333|80.71667|Central
+Eregoda|7.15|80.56667|Central
+Ereula Pahalagama|7.83333|80.71667|Central
+Erukkulampiddy|9.03333|79.86667|Northern
+Etabendiwewa|7.78333|80.63333|Central
+Etakehellanda|7.11667|80.9|Central
+Etambagahawatta|7.31667|80.78333|Central
+Etambagahawatta Udispattu|7.31667|80.78333|Central
+Etambagolla|7.38333|80.95|Central
+Etambegoda|7.35|80.53333|Central
+Etamulla|7.35|80.55|Central
+Etipola|7.5|80.58333|Central
+Ettampitiya|6.9387|80.98837|Uva
+Etulgama|7.25|80.66667|Central
+Fort|6.92583|79.84167|Western
+Gabadaweediya|5.95|80.53333|Southern
+Gabadawidiya|5.95|80.53333|Southern
+Gadaladeniya|7.25|80.55|Central
+Gajabapura|9.01667|80.73333|Northern
+Gajanayakagama|6.18333|80.81667|Southern
+Galabadawatta|7.36667|80.76667|Central
+Galabawa|7.4|80.46667|Central
+Galabodawatta|7.36667|80.76667|Central
+Galagama|7.5747|80.595|Southern
+Galagammana|5.96667|80.56667|Southern
+Galagammulla|5.96667|80.56667|Southern
+Galagedara|7.6|80.38333|
+Galagedara|7.31667|79.95|Central
+Galagedara|7.76667|80.16667|North Western
+Galagedara|6.85|80.08333|Western
+Galagoda|7.2025|80.738|Central
+Galaha|7.21667|80.6667|Central
+Galaha Town|7.2|80.66667|Central
+Galahitiya|6.5787|80.2319|Southern
+Galahitiyagama|7.62417|80.58611|Central
+Galahitiyawa|7.4578|80.0497|Central
+Galaliyadda|7.56667|80.61667|Central
+Galamuduna|7.45|80.88333|Central
+Galapilagama|6.11667|80.48333|Southern
+Galatuduwa|6.38333|80.05|Southern
+Galaudahena|7.46667|80.6|Central
+Galbada|6.38333|80.01667|Southern
+Galboda|7.6282|80.7269|Southern
+Galdola|7.36667|80.48333|Central
+Galewela|7.76667|80.56667|Central
+Galgamuwa|8|80.28306|
+Galhinna|7.41614|80.56884|Central
+Galkadawela|7.1|80.93333|Central
+Galketiwela|7.11667|80.9|Central
+Galkissa|6.82917|79.86306|
+Gallahawatta|7.28333|80.81667|Central
+Gallella|7.375|80.5409|Central
+Galpitiya|7.13333|80.91667|Central
+Galuke|7.11667|80.78333|Central
+Galwadukumbura|7.56667|80.61667|Central
+Galwangedihena|7.76667|80.6|Central
+Galwetiyaya|7.88333|80.63333|Central
+Gammaduwa|7.56667|80.7|Central
+Gammulla|7.55|80.6|Central
+Gammunukumbura|7.23333|80.83333|Central
+Gampaha|6.71667|81.03333|Uva
+Gampaha|7.09167|79.99972|Western
+Gampola|7.16472|80.57667|Central
+Gampola Town|7.16667|80.56667|
+Gampolawela|7.15|80.56667|Central
+Gamunukumbura|7.23333|80.83333|Central
+Gandara|5.95|80.55|Southern
+Ganegalagammedda|7.26667|80.86667|Central
+Ganemulla|7.06667|79.95|Western
+Ganeshapuram|9.21667|80.65|Northern
+Ganewatta|7.65056|80.34917|North Western
+Gangahenwala|7.53333|80.8|Central
+Gangoda|7.3078|80.891|Central
+Gangodapitiya|7.3868|80.4829|Central
+Ganguldeniya|7.25|80.55|Central
+Ganhata|7.2|80.55|Central
+Gankewala|7.31667|80.73333|Central
+Gankewela|7.31667|80.73333|Central
+Gannoruwa|7.28333|80.58333|Central
+Gansarapola|7.48333|80.66667|Central
+Gedaramada|7.33333|80.88333|Central
+Gerandigala|7.36667|80.86667|Central
+Getambe|7.26667|80.61667|Central
+Getembe|7.26667|80.61667|Central
+Getiyawala|7.38333|80.56667|Central
+Gettapola|7.28333|80.56667|Central
+Gettiyawala|7.38333|80.56667|Central
+Giddawa|7.34472|80.73972|Central
+Ginigathena|6.98333|80.48333|Central
+Ginnoruwa|7.5|80.98333|Central
+Gintota|6.0609|80.17928|Southern
+Giragama|7.2761|80.5464|Central
+Giragma|7.26667|80.55|Central
+Girahagama|7.36667|80.55|Central
+Girantalawa|7.35|80.51667|Central
+Giraulla|7.13333|80.53333|Central
+Girihagama|7.36667|80.55|Central
+Giritale|7.98333|80.91667|North Central
+Godamuna|7.33333|80.78333|Southern
+Godapussa|7.46667|80.65|Central
+Godatale|7.35|80.43333|Central
+Godavaya|6.1117|81.05222|
+Godawela|7.3481|80.2986|Central
+Golahenwatta|7.55|80.61667|Central
+Golegammana|7.36667|80.53333|Central
+Gollangolla|7.25|80.55|Central
+Gomagoda|7.31667|80.73333|Central
+Gonapola|6.76203|80.01458|Western
+Gondawela|7.31667|80.43333|Central
+Gondeniya|7.2706|80.4928|Central
+Gondewala|7.31667|80.43333|Central
+Gonewala|7.53333|80.81667|Central
+Govindala|7.26667|80.55|Central
+Grandpass|6.9475|79.87472|Western
+Gunadaha|7.38333|80.5|Central
+Gunnepana Gabadagama|7.33333|80.66667|Central
+Gunnepana Madige|7.33333|80.65|Central
+Gunnepana Pallegammedda|7.33333|80.65|Central
+Gunnepana Udagammedda|7.3|80.65|
+Gurudeniya|7.26667|80.68333|Central
+Gurugalle Ella|7.11667|80.86667|Central
+Gurugama|7.3|80.55|Central
+Gurukete|7.41667|80.63333|Central
+Gurulupota|7.33333|80.93333|Central
+Gurunagar|9.6544|80.0149|Northern
+Gurutalawa|6.85|80.91667|
+Habakkala|6.36667|80.01667|Southern
+Habaraduwa|6|80.3|Southern
+Habaraduwa Central|6|80.3|Southern
+Habaraduwa West|6|80.28333|Southern
+Habarattawila|6.21667|81.03333|Southern
+Habarattewala|6.18333|80.86667|Southern
+Haburugala|6.4|80.03333|Southern
+Hakmana|7.31667|80.8|Central
+Hakmana Matara|6.0796|80.6577|Southern
+Hakurutale|7.2|80.8|Central
+Haladiwela|7.23333|80.55|Central
+Halagama|7.13333|80.56667|Central
+Halangoda|7.43333|80.61667|Central
+Haldummulla|6.76528|80.88917|Uva
+Halgolla|7.0431|80.5787|Central
+Haliyadda|7.26667|80.53333|Central
+Haliyedde|7.26667|80.53333|Central
+Halloluwa|7.29|80.61|Central
+Halmehikandura|7.26667|80.6|Central
+Halminiya|7.51667|80.83333|Central
+Halpola|7.01667|80.63333|Central
+Haltota|6.7|80.03333|
+Handabowa|7.31667|80.5|Central
+Handaganawa|7.28333|80.98333|Central
+Handapangoda|6.8|80.15|Western
+Handessa|7.23333|80.58333|Central
+Hangarandeniya|7.36667|80.65|Central
+Hangarapitiya|6.91667|80.46667|Central
+Hanguranketa|7.16667|80.78333|Central
+Hanguranketa Town|7.16667|80.78333|Central
+Hanwella|6.90111|80.08528|Western
+Happawara|7.16667|80.83333|Central
+Hapudandawala|7.35|80.88333|Central
+Hapudandawela|7.35|80.88333|Central
+Hapugaha-Arawa|7.21667|80.76667|Central
+Hapugahamulla|7.36667|80.63333|Central
+Hapugahapitiya|7.11667|80.88333|Central
+Hapugaharawa|7.21667|80.76667|Central
+Hapugasdeniya|7.16667|80.75|Central
+Hapugaspitiya|7.16667|80.56667|Central
+Hapugastalawa|7.0645|80.5752|Central
+Hapugoda|7.3488|80.5932|Central
+Hapukanda|7.28333|80.9|Central
+Hapupe|7.13333|80.8|Central
+Haputale Pallegama|7.23333|80.68333|Central
+Haputale Udagama|7.23333|80.68333|Central
+Haputale Udagammedda|7.23333|80.68333|Central
+Hapuwala|7.16667|80.76667|Central
+Haragama|7.26667|80.71667|Central
+Haraggama|7.18333|80.78333|Central
+Harakola|7.15|80.55|Central
+Harangala|7.05|80.58333|Central
+Harankahawa|7.3921|80.531|Central
+Harasbedda|7.05|80.86667|Central
+Harasgama|7.48333|80.61667|Central
+Harden-huish|6.91667|80.51667|Central
+Hassalaka|7.35|80.95|Central
+Hatadukkuwa|7.71667|80.55|Central
+Hatamunagala|7.58333|80.65|Central
+Hataraliyadda|7.33333|80.46667|Central
+Hatiyaldeniya|7.36667|80.65|Central
+Hatiyalwela|7.3|80.81667|Central
+Hatthikuchchi|8.03417|80.26833|North Western
+Hatton|6.88972|80.59806|Central
+Hedeniya|7.3393|80.5648|Central
+Hedunuwawa|7.05|80.65|Central
+Hegama|7.06667|80.9|Central
+Helambagahawatta|7.75|80.71667|Central
+Hemagahahena|7.53333|80.7|Central
+Hembarawa|7.51667|80.96667|Central
+Henagahawela|7.28333|80.76667|Central
+Henagehuwala|7.28333|80.76667|Central
+Henagehuwala Medagammedda|7.28333|80.76667|Central
+Henapola|7.43333|80.6|Central
+Henaya Rotawewa|7.8|80.55|Central
+Hendala|6.99083|79.88306|
+Hendeniya|7.25|80.58333|Central
+Henegama Palkumbura|7.35|80.56667|Central
+Hepana|7.23333|80.55|Central
+Hettigammedda|7.31667|80.66667|Central
+Hettipola|7.60583|80.07472|
+Hevanewala|7.35|80.93333|Central
+Hewaheta|7.1|80.76667|Central
+Hewanetenna|7.66667|80.53333|Central
+Hewanewala|7.35|80.93333|Central
+Hewawissa|7.21667|80.73333|Central
+Hewawisse|7.21667|80.73333|Central
+Hidallana|6.71667|80.3833|
+Hiddaulla|7.23333|80.55|Central
+Hilpankandura|7.08333|80.51667|Central
+Hilton Colony|7.53333|80.61667|Central
+Himbiliyakada|7.6|80.88333|Central
+Hinagama|7.31667|80.6|Central
+Hindagala|7.2285|80.6035|Central
+Hingulwala|7.4|80.53333|Central
+Hingulwela|7.4|80.53333|Central
+Hingurewela|7.11667|80.91667|Central
+Hingurukaduwa|6.81667|81.15|Uva
+Hiriyalagammana|7.33333|80.58333|Central
+Hitgoda|7.36667|80.5|Central
+Hitgoda Walpola|7.36667|80.5|Central
+Hitigegama|6.95|80.45|Central
+Hitigolla|7.45|80.61667|Central
+Hiyadala|7.3429|80.5087|Central
+Hiyadala Walpola|7.35|80.5|Central
+Hiyarapitiya|7.23333|80.56667|Central
+Hiyawela|7.23333|80.56667|Central
+Hokandara|6.88028|79.96667|Western
+Holmwood Estate|6.85139|80.71278|Central
+Homagama|6.845|80.00306|Western
+Homapola|7.63333|80.61667|Central
+Hombawa|7.75|80.55|Central
+Horagahapitiya|7.46667|80.58333|Central
+Horakada|6.96667|80.48333|Central
+Horana|6.71667|80.05|Western
+Horawala Junction|6.48088|80.12708|
+Huduhumpola|7.28333|80.61667|Central
+Hulangamuwa|7.46667|80.61667|Central
+Hultsdorf|6.9425|79.85833|Western
+Huluganga|7.4|80.75|Central
+Huluganga Town|7.4|80.75|Central
+Hunnasgiriya|7.3|80.85|Central
+Hunuange Bogaskumburegammedda|7.31667|80.66667|Central
+Hunuange Imbulkotadeniya|7.31667|80.68333|Central
+Hunugalagala Limestone Cave|6.76528|80.8892|
+Hunugalpitiya|7.61667|80.63333|Central
+Hunuketa-ela|7.55|80.65|Central
+Hunuketawala|7.41667|80.65|Central
+Hunuketella|7.5|80.65|Central
+Hurikaduwa|7.3|80.7|Central
+Hurikaduwa Madige|7.31667|80.7|Central
+Hurikaduwe Madige|7.31667|80.7|Central
+Hurungamuwagama|7.965|80.31028|
+Ibbagamuwa|7.55722|80.44806|
+Ibbawala|6|80.4|Southern
+Idalgashinna|6.78333|80.9|
+Idamagama|7.35|80.56667|Central
+Idamelanda|7.2|80.76667|Central
+Idampitiya|7.2107|80.4905|Central
+Idandukita|6.3|80.43333|Southern
+Idantota|6.21667|80.06667|Southern
+Ihagama|7.36667|80.56667|Central
+Ihala Aturaliya|6.08333|80.5|Southern
+Ihala Beligalla|6.1|80.73333|Southern
+Ihala Ganegama|6.03333|80.48333|Southern
+Ihala Keembiya|6.1|80.25|Southern
+Ihala Kumbukwewa|6.38333|81.03333|Southern
+Ihala Omatta|6.33333|80.16667|Southern
+Ihala Vitiyala|6.05|80.53333|Southern
+Ihaladiggala|7.81667|80.58333|Central
+Ihalagama Niyangama|7.43333|80.53333|Central
+Ihalakande Bavulana|7.2|80.71667|Central
+Ilamaruthankulam|9.01667|80.35|Northern
+Ilavalai|9.795|79.99278|Northern
+Illagolla|7.16667|80.81667|Central
+Illawatura|7.16667|80.58333|Central
+Illukpelessa|7.01667|80.9|Central
+Illuktenna|7.16667|80.91667|Central
+Illukwatta|7.2596|80.5418|Central
+Ilpemada|7.35|80.5|Central
+Ilukhena|7.45|80.86667|Central
+Ilukpelessa|7.01667|80.9|Central
+Imaduwa|6.0328|80.3833|Southern
+Imayanan|9.805|80.17639|Northern
+Imbulandanda|7.55|80.63333|Central
+Imbuldeniya|7.23333|80.56667|Central
+Imbuletenna|7.33333|80.48333|Central
+Imbulgolla|7.56667|80.66667|Central
+Imbulmalgama|7.28333|80.55|Central
+Imbulpitiya|7.395|80.672|Central
+Indupuram|9.33333|80.41667|Northern
+Ingiriya|6.74389|80.17222|Western
+Inguruwatta|7.18333|80.6|Central
+Inigala|7.31667|80.61667|Central
+Inuvil|9.71667|80.01667|Northern
+Ipiladana|7.28333|80.51667|Central
+Irahanda|7.11667|80.51667|Central
+Irakkamam|7.25|81.71667|Eastern
+Iranamadu|9.33333|80.4|Northern
+Irrahanda|7.11667|80.51667|Central
+Iruddumadu|9.38333|80.6|Northern
+Ittamalliyagoda|7.3|80.68333|Central
+Ivurawala|7.38333|80.91667|Central
+Iyankankulam|9.21667|80.31667|Northern
+Iyattalai|9.7|80.2|Northern
+Ja-Ela|7.06667|79.89333|Western
+Jahakagama|7.7|80.58333|Central
+Jalampitiya|6.23333|80.73333|Southern
+Jamburegoda|6.01667|80.41667|Southern
+Jamburutugoda|6.01667|80.4|Southern
+Janakapura|9|80.83333|Northern
+Jandura|6.18333|80.86667|Southern
+Jansagama|6.15|80.98333|Southern
+Jeyanthinagar|9.36667|80.38333|Northern
+Jiwanawatta|7.36667|80.6|Central
+Jomahandigoda|6.15|80.1|Southern
+Jorseygoda|6.36667|80.01667|Southern
+Jorsigoda|6.36667|80.01667|Southern
+Julampitiya|6.23333|80.73333|Southern
+Julamulla|6.15|80.85|Southern
+Kabaragaha Ela|7.58333|80.75|Southern
+Kabaragala|6.05|80.3|Southern
+Kabaragomaditta|6.2|80.7|Southern
+Kabarakelle|6.35361|80.66278|
+Kabarayamulla|6.05|80.28333|Southern
+Kachchai|9.65|80.2|Northern
+Kadadoovapitiya|7.01667|80.66667|Central
+Kadadora Pallegammedda|7.05|80.6|Central
+Kadadorapitiya|7.01667|80.66667|Central
+Kadawala|7.23417|79.93583|Western
+Kadawatha|7|79.95|Western
+Kadaweddawa|6.01667|80.6|Southern
+Kaddaiveli|9.78333|80.21667|Northern
+Kaddukarankudiyiruppu|9.08333|79.76667|Northern
+Kadduwa|6.03333|80.51667|Southern
+Kadedduwa|5.98333|80.51667|Southern
+Kadigamuwa|7.3184|80.4381|Southern
+Kadihingala|6.35|80.41667|Southern
+Kadiragoda|6.1|80.86667|Southern
+Kadugannawa|7.25694|80.51889|Central
+Kadugawnawa|7.25|80.51667|Central
+Kaduwela|6.93556|79.98389|Western
+Kahagala|7.5654|80.771|Central
+Kahalla|7.3316|80.6305|Central
+Kahapathwela|7.38333|80.46667|Central
+Kahapatwala|7.38333|80.46667|Central
+Kahatadanda|7.1|80.81667|Central
+Kahatagaha|7.45|80.86667|Central
+Kahatagaha Aswedduma|7.3|80.95|Central
+Kahatagastenna|7.4|80.56667|Central
+Kahathuduwa|6.78417|79.9811|Western
+Kahatowita|7.095|80.10972|Western
+Kahawatta|7.16667|80.6|Sabaragamuwa
+Kahawatugoda|7.28333|80.55|Central
+Kaikawala|7.5086|80.659|Central
+Kaineke|7.48333|80.63333|Central
+Kaithady|9.66667|80.1|Northern
+Kaiveli|9.33333|80.66667|Northern
+Kajugaswatta|6.46667|80.53333|
+Kalaganwatta|7.1|80.9|Central
+Kalagolla|7.2|80.98333|Central
+Kalahe|6.02917|80.2569|Southern
+Kalalgamuwa|7.28333|80.9|Central
+Kalalpitiya|7.4219|80.6225|Central
+Kalapathwela|7.18333|80.83333|Central
+Kalawagahawadiya|7.4|80.91667|Central
+Kalawana|7.161|79.962|Sabaragamuwa
+Kalaweldeniya|6.95|80.5|Central
+Kalkudah|8.11667|79.7167|Eastern
+Kalladi|7.71167|81.7089|Eastern
+Kallapaadu|9.26667|80.81667|Northern
+Kallarawa|8.898|81.022|Eastern
+Kalliruppu|9.06667|80.4|Northern
+Kalmadunagar|9.38333|80.51667|Northern
+Kalmunai|7.41667|81.81667|Eastern
+Kalotuwawa|7.35|80.43333|Central
+Kalpitiya|8.16667|79.71667|North Western
+Kaludella|7.4|80.73333|Central
+Kaludemada|7.05|80.58333|Central
+Kaludewala|7.48333|80.63333|Central
+Kalugal-oya|7.38333|80.9|Central
+Kalugala|7.3865|80.8964|Central
+Kaluganga|7.65|80.83333|Central
+Kalutara Vihara|6.58694|79.96028|
+Kaluvanchikudy|7.5175|81.78694|Eastern
+Kaluwane|7.38333|80.48333|Central
+Kalvilan|9.15|80.21667|Northern
+Kalyanapura|9|80.76667|Northern
+Kambarawa|7.65|80.76667|Central
+Kamburadeniya|7.2252|80.5875|Central
+Kamburupitiya|6.08333|80.56667|
+Kammaltera|7.25|79.83333|Central
+Kanagapuram|9.35|80.36667|Northern
+Kanagarathinapuram|9.21667|80.65|Northern
+Kanakarayankulam|9.0566|80.4584|Northern
+Kanakkarapola|7.33333|80.48333|Central
+Kanangamuwa|7.5|80.63333|Central
+Kandalama|7.2675|80.1303|Central
+Kandana|7.05|79.9|Western
+Kandangama|7.26667|80.51667|Central
+Kandanhena|7.36667|80.55|Central
+Kandapola|6.98333|80.81667|Central
+Kandarodai|9.75|80.01667|Northern
+Kandavalai|9.43333|80.48333|Northern
+Kandegama|7.18111|81.09972|Central
+Kandemoragolla|7.8|80.56667|Central
+Kandewela|7.2168|80.7213|Central
+Kanduregoda|6.95|80.5|Central
+Kandurugoda|6.95|80.5|Central
+Kanesapuram|9.41667|80.38333|Northern
+Kankesanthurai|9.81667|80.03333|Northern
+Kannadeniya|7.3842|80.474|Central
+Kannagipuram|9.35|80.31667|Northern
+Kantalai|8.3683|81.0281|Eastern
+Kantharmadam|9.67611|80.02119|
+Kanukkerny|9.21667|80.8|Northern
+Kapugoda|6.56|80.5|Western
+Kapuliyadda|7.2317|80.7115|Central
+Kaputupola|7.33333|80.43333|Central
+Karabotuwawa|7.24139|80.1325|
+Karagama|7.5|80.85|Central
+Karainagar|9.73333|79.86667|Northern
+Karaitivu|7.36667|81.83333|Eastern
+Karaitivu|9.73389|79.87528|Northern
+Karaitivu (Puttalam)|8.33333|79.73333|North Western
+Karakolagahatenna|7.4|80.88333|Central
+Karakolagastenna|7.55|80.78333|Central
+Karaliyadda|7.3|80.76667|Central
+Karalliyada Kandegammedda|7.31667|80.75|Central
+Karalliyadda Kandegammedda|7.31667|80.75|Central
+Karamada|7.21667|80.6|Central
+Karamindula|7.13333|80.75|Central
+Karampaham|9.6475|80.25917|Northern
+Karampaikkurichchi|9.71667|80.23333|Northern
+Karampon|9.66667|79.86667|Northern
+Karandamaditta|7.11667|80.81667|Central
+Karapitiya|6.0711|80.2306|
+Karaputugala|6.08333|80.6|
+Karaveddy|9.8|80.2|Northern
+Karawwa|7.25|80.06667|Sabaragamuwa
+Karippaddamurippu|9.16667|80.53333|Northern
+Karumpulliyan|9.1|80.26667|Northern
+Karunaddukerny|9.03333|80.91667|Northern
+Karunkandalvannakulam|8.93333|80.03333|Northern
+Karuvelankandal|9.16667|80.68333|Northern
+Karuwalagahadewala|7.46667|80.88333|Central
+Karuwalakelewatta|7.28333|80.56667|Central
+Karuwalakelle|7.28333|80.56667|Central
+Kasawatta|7.36917|80.60417|Central
+Kasbawa|6.79528|79.93861|
+Kataragama|6.41667|81.33333|Uva
+Katarandana|7.03333|80.65|Central
+Katarandena|7.03333|80.65|Central
+Katchilaimadu|9.18333|80.65|Northern
+Kathiraveli|8.21667|81.4|Eastern
+Kathiripaay|9.79083|80.11528|Northern
+Kathurupitiya|7.66667|80.91667|Central
+Katugastota|7.33333|80.61667|Central
+Katumana|6.93333|80.8|Central
+Katunayake|7.16667|79.86667|Western
+Katupathwela|7.18333|80.83333|Central
+Kavudupelella|7.58333|80.63333|Central
+Kavudupitiya|7.18333|80.6|Central
+Kavulpana|7.11667|80.58333|Central
+Kavulpone|7.11667|80.58333|Central
+Kawdupelella|7.58333|80.63333|Central
+Kawudupelella|7.58333|80.63333|Central
+Kayts|9.66667|79.86667|Northern
+Keenagolla|7.12917|80.90333|Central
+Keerapone|7.16667|80.56667|Central
+Keerimalai|9.81667|80|Northern
+Kehelella|7.26667|79.98333|Central
+Kekelawatta|7.45|80.86667|Central
+Kekulalla|7.5|80.6|Central
+Kelaniya|6.95667|79.92056|Western
+Keliyalpitiya|7.25|80.56667|Central
+Kendagolla|7.4446|80.6139|Central
+Kendagollamada|7.41667|80.66667|Central
+Kendaliadda|7.35|80.61667|Central
+Kendaliyadda|7.35|80.61667|Central
+Kendangamuwa|7.7|80.56667|Central
+Kengalla|7.3|80.71667|Central
+Kengalla Pahalagammedda|7.28333|80.71667|Central
+Keppetipola|6.88083|80.87889|
+Keratheevu|9.58333|80.2|Northern
+Kerudamadu|9.21667|80.68333|Northern
+Kerudavil|9.81667|80.15|Northern
+Kesbewa|6.79528|79.93861|Western
+Ketakandura|7.1|80.86667|Central
+Ketakumbura|7.21667|80.5833|Central
+Ketayapatana|7.05|80.8|Central
+Kevulgama|7.22333|80.85528|Central
+Kilaly|9.6|80.26667|Northern
+Kimbulantota|7.2|80.83333|Central
+Kinigama|7.6097|80.6162|Uva
+Kinniya|8.48333|81.18333|Eastern
+Kiralagama|7.36667|80.6|Central
+Kiralagolla|7.8|80.65|Central
+Kiralessa|7.78333|80.66667|Central
+Kiran|7.86667|81.53333|Eastern
+Kiranchi|9.33333|80.1|Northern
+Kirapane|7.16667|80.56667|Central
+Kirapone|7.167|80.467|Central
+Kiribathgoda|6.97806|79.99611|Western
+Kiribatkumbura|7.26667|80.58333|Central
+Kirigankumbura|7.31667|80.88333|Central
+Kirilapone|6.87528|79.87528|Western
+Kirilapone North|6.89194|79.85833|Western
+Kirimedilla|7.06667|80.88333|Central
+Kirimetiyagara|7|79.93333|
+Kirinda|7.1841|80.5775|Southern
+Kirindewela|7.03333|80.65|Central
+Kirindiketiya|7.51667|80.83333|Central
+Kirindiwela|7.03333|80.13333|
+Kirindiwelpola|7.33333|80.55|Central
+Kirioruwa|7.6707|80.6054|Central
+Kiripattiya|7.3|80.86667|Central
+Kiriwan Eliya|6.91667|80.5|Central
+Kiriwanagoda|7.2|80.73333|Central
+Kiriwavula|7.25|80.55|Central
+Kirlulgama|7.55|80.63333|Central
+Kithulgoda|6.51667|80.18333|Western
+Kitulangomuwa|7.26667|80.8|Central
+Kituldora|7.31667|80.53333|Central
+Kitulgala|6.59|80.25|Sabaragamuwa
+Kitulpe|7.16667|80.73333|Central
+Kiul-ulpota|7.53333|80.81667|Central
+Kiulewadiya|7.5|80.88333|Central
+Kobbeakaduwa|7.31667|80.55|Central
+Kobbewala|7.15|80.58333|Central
+Kobbewehera|7.665|80.5718|Central
+Kochchikade|7.26667|79.85472|Western
+Kochchikaduwa|7.33333|80.5|Central
+Koddaikaddiyakulam|9.23333|80.28333|Northern
+Kodikamam|9.65|80.15|Northern
+Koggala|5.9833|80.3333|Southern
+Kohodeniya|7.05|80.66667|Central
+Koholanwala|7.63333|80.63333|Central
+Koholanwela|7.63333|80.63333|Central
+Koholdeniya|7.05|80.66667|Central
+Kohomada|7.13333|80.51667|Central
+Kohonapuwakgaha-ela|7.63333|80.61667|Central
+Kohuwala|6.87528|79.87528|Western
+Kokavil|9.26667|80.4|Northern
+Kokkadichcholai|7.61417|81.71306|Eastern
+Kokkilai|9|80.95|Northern
+Kokkuthoduvai|9.05|80.91667|
+Kokkuvil|9.69199|80.0204|Northern
+Kollavilankulam|9.1|80.35|Northern
+Kollawela|7.83333|80.65|Central
+Kollupitiya|6.90056|79.85333|Western
+Kolonella|7.1|80.86667|Central
+Kolonnawa|6.92833|79.895|Western
+Kolugala|7.3|80.51667|Central
+Kombavil|9.35|80.7|Northern
+Kombuvaiththakulam|8.91667|80.48333|Northern
+Konakagala|7.38333|80.61667|Central
+Konakalagala|7.38333|80.61667|Central
+Konavil|9.35|80.31667|Northern
+Kondadeniya|7.31667|80.61667|Central
+Kondavil|9.71361|80.02528|Northern
+Kongahamulla|7.55|80.61667|Central
+Kongahawela|7.6795|80.7083|Central
+Konkalagala|7.38333|80.61667|Central
+Koolamurippu|9.18333|80.71667|Northern
+Koomankulam|8.75111|80.45972|Northern
+Kopay|9.68333|80.05|Northern
+Korahagoda|7.13333|80.78333|Central
+Korakkankaddu|9.45|80.46667|Northern
+Kosgama|7.4302|80.7633|
+Kosgoda|6.336|80.034|Southern
+Koshinna|7.37|80.4507|Central
+Koskote|7.36667|80.6|Central
+Koslanda|6.72|81.02966|
+Koswana|7.48333|80.66667|Central
+Koswatte|6.89111|79.9283|Western
+Kotabogoda|7.2644|80.5354|Central
+Kotagala|6.92972|80.60472|Central
+Kotagepitiya|7.1614|80.7313|Central
+Kotahena|6.94278|79.85861|Western
+Kotakedeniya|7.2|80.6|Central
+Kotakepitiya|7.16667|80.73333|Central
+Kotakumbura|7.61667|80.61667|Central
+Kotaligoda|7.28333|80.5|Central
+Kotawagura|7.38333|80.9|Central
+Kotikambe|7.15|80.73333|Central
+Kotikawatta|6.94111|79.91944|Western
+Kotinkaduwa|7.36667|80.56667|Central
+Kotiyagala|6.77259|81.52965|Central
+Kotmale|7.01667|80.58333|Central
+Kottawa|6.84139|79.96472|Western
+Kottinkaduwa|7.36667|80.56667|Central
+Kovilkudiyiruppu|9.26667|80.81667|Northern
+Kovilvayal|9.53333|80.41667|Northern
+Krishnapuram|9.35|80.36667|Northern
+Kuchchaveli|8.81667|81.1|Eastern
+Kudarappu|9.66861|80.33306|
+Kudathanai|9.75|80.26667|Northern
+Kudinilam|7.12625|81.82995|
+Kudiramalai|8.53333|79.86667|North Western
+Kudumbimalai|7.86667|81.53333|Eastern
+Kuliyapitiya|7.47056|80.04556|North Western
+Kumarakattuwa|7.65|79.9|
+Kumarapattiya|6.93306|80.9|
+Kumarapediya|7.38333|80.3|
+Kumarapuram|9.21667|80.8|Eastern
+Kumarapuram|9.43333|80.36667|Northern
+Kumarasamipuram|9.36667|80.58333|Northern
+Kumarimulla|6.96667|80.11667|
+Kumbalwela|6.88333|81.03333|Uva
+Kumulamunai|9.15|80.83333|Northern
+Kunchukulam|9.33333|80.25|Northern
+Kundasale|7.26667|80.7|Central
+Kuppilan|9.75|80.05|Northern
+Kurana|7.18333|79.86667|
+Kurukkalmadam|7.58736|81.78106|
+Kurumankadu|8.75|80.48333|Northern
+Kuruwita|6.76667|80.36667|Sabaragamuwa
+Labuduwa|6.06667|80.23333|Southern
+Labugolla|7.01667|80.71667|Central
+Lagamuwa|7.241|80.5213|Central
+Lahugala|6.8869|81.7216|Eastern
+Lalpe|6.06667|80.65|Southern
+Lalwala Pahala|6.15|80.21667|Southern
+Lametiya|6|80.66667|Southern
+Landajulana|6.25|81.13333|Southern
+Landejulana|6.25|81.13333|Southern
+Landupita|7.1|80.8|Central
+Lankagama|6.35|80.46667|Southern
+Lansigama|7.38333|79.83333|
+Lanumodara|6.01667|80.3|Southern
+Lanumodera|6.01667|80.3|Southern
+Lappanagama|7.06667|80.58333|Central
+Legundeniya|7.16667|80.63333|Central
+Lelkada|6.13333|80.16667|Southern
+Leloya|7.58333|80.81667|Central
+Lelwala|6.33333|80.38333|Southern
+Lelwala Ihala|6.13333|80.25|Southern
+Lelwala Pahala|6.15|80.21667|Southern
+Lemasuriyagama|7.15|80.83333|Central
+Lenadora|7.75|80.66667|Central
+Lenaduwa|5.98333|80.53333|Southern
+Lenagalpalata|6.31667|80.08333|Southern
+Lenama|6.16667|80.45|Southern
+Lenawa|7.63204|80.4784|Southern
+Lenawala|7.71667|80.6|Central
+Lendora|7.75|80.66667|Central
+Lenewa|7.9|80.73333|Southern
+Lesliewatta|7.56667|80.68333|Central
+Letiyahena|7.46667|80.58333|Central
+Leudeniya|7.08333|80.48333|Central
+Lewdeniya|7.08333|80.48333|Central
+Lewduwa|6.2|80.1|Southern
+Lewella|7.3|80.65|Central
+Lewellagolla|7.1|80.88333|Central
+Lewla|7.2584|80.6755|Central
+Lewpotdeniya|6.16667|80.48333|Southern
+Lindula|6.90111|80.66944|Central
+Liniyaketiya|7.4|80.93333|Central
+Lintotapaya|6.18333|80.76667|Southern
+Liyanagamakanda|6.31667|80.28333|Southern
+Liyanagemulla|7.15|79.88333|
+Liyanagoda|6|80.3|Southern
+Liyandeniya|7.18333|80.6|Central
+Liyannakatuwa|6.18333|80.83333|Southern
+Liyanwela Pahalagama|7.11667|80.83333|Central
+Lolla|6.06667|80.66667|Southern
+Loluwagoda|7.3|80.13333|Western
+Loolkade|7.63333|80.55|Central
+Lunama|6.11667|80.96667|Southern
+Lunawa|6.78972|79.87444|
+Lunugala|7.03333|81.2|Uva
+Lunugama|7.1874|80.5815|Western
+Lunuganwehera|6.33333|81.2|Southern
+Lunuwila|7.34361|79.86167|North Western
+Maankulam|9.12917|80.44583|Northern
+Maberiya|7.41667|80.63333|Central
+Mabingoda|6.35|80.11667|Southern
+Mabodale|7.2|80.01667|Western
+Mabola|7|79.9|
+Mabotuwana|6.13333|80.28333|Southern
+Madahapolakanda|7.71667|80.53333|Central
+Madakumbura|7.5067|80.7038|Southern
+Madametota|6.51667|81.68333|Southern
+Madampagama|6.21667|80.06667|
+Madampitiya|6.96056|79.87222|Western
+Madanpitiya|7.38333|80.9|Central
+Madanwala|7.16667|80.76667|Central
+Madawala|7.32833|80.67355|Central
+Madawala Demalabage|7.61667|80.65|Central
+Madawala Madige|7.33333|80.66667|Central
+Madawala Ulpota|7.61667|80.61667|Central
+Maddumagegoda|5.96667|80.56667|Southern
+Madduvilnadu|9.5|80.18333|Northern
+Madhu|8.85|80.2|Northern
+Madihe East|5.93333|80.51667|Southern
+Madihe West|5.95|80.5|Southern
+Madiligama|7.28333|80.5|Central
+Madipola|7.68333|80.58333|Central
+Madipola Marakkalabage|7.7|80.56667|Central
+Madipola Sinhalabage|7.68333|80.58333|Southern
+Madulkele|7.4|80.73333|Central
+Madulkele Bazaar|7.4|80.73333|Central
+Madumana|7.1207|80.7587|Central
+Madurankuli|7.89333|79.82222|North Western
+Maha Aswedduma|7.35|80.93333|Central
+Mahagama Egodagama|7.33333|80.63333|Central
+Mahagama Megodagama|7.35|80.61667|Central
+Mahaiyawa|7.3|80.63333|Central
+Mahakumbura|7.3626|80.6406|Central
+Mahalakotuwa|7.53333|80.75|Central
+Mahalevakanda|7.58333|80.61667|Central
+Mahanurora|7.3|80.63333|Central
+Mahara|6.99167|79.93833|Western
+Maharagama|6.84944|79.92361|Western
+Mahawatta|7.2627|80.4353|Central
+Mahiyanganaya|7.31667|80.98278|Uva
+Maho Sri Lanka|7.82278|80.27778|North Western
+Mailapitiya Lower|7.23333|80.75|Central
+Mailapitiya Upper|7.23333|80.75|Central
+Maiyangana|7.31667|80.98333|Central
+Makeliyawala|7.55|80.65|Central
+Makempe|7.13333|80.75|Central
+Makola|6.97528|79.94861|Western
+Makuldeniya|7.33333|80.78333|Central
+Makulussa Colony|7.55|80.61667|Central
+Malabe|6.90361|79.95472|Western
+Malagala|6.8|80.11667|
+Malagammana|7.31667|80.58333|Central
+Malagekumbura|7.35|80.66667|Central
+Malanwatta|7.1447|80.732|Central
+Malayalapuram|9.33333|80.38333|Northern
+Malgammana|7.28333|80.56667|Central
+Malgandeniya|7.4|80.63333|Central
+Malhewa|7.0503|80.6855|Central
+Maligawila|6.7263|81.368|
+Maliyadda|7.2801|80.4784|Central
+Mallakam|9.76344|80.02953|Northern
+Mallavi|9.13333|80.28333|Northern
+Mallikaithivu|9.3|80.71667|Northern
+Malulla|7.2|80.78333|Central
+Malwana|6.93333|80|Western
+Malwanahinna|7.38333|80.61667|Central
+Malwattai|7.31667|81.71667|Eastern
+Mamoolai|9.21667|80.78333|Northern
+Mampuri|8|79.73333|
+Manaboda|7.41667|80.63333|Central
+Manahinda|7.78333|80.53333|Central
+Manakola|7.06667|80.76667|Central
+Manalkadu|9.58333|80.3|Northern
+Manalkudiyiruppu|9.26667|80.81667|Northern
+Manavalanpaddamurippu|9.15|80.55|Northern
+Manayaveli|8.56307|81.2384|Eastern
+Mandandawela|7.4817|80.6167|Central
+Mandaram Nuwara|7.075|80.7914|Central
+Mandaran Newara|7.05|80.76667|Central
+Mandur|7.48333|81.75|
+Mangoda|7.3|80.83333|Central
+Manikkapuram|9.35|80.55|Northern
+Manilwala|7.1|80.86667|Central
+Manipay|9.71667|80|Northern
+Mannakandal|9.23333|80.68333|Northern
+Manthai|8.98944|79.99806|Northern
+Manthuvil|9.7|80.18333|
+Manthuvil|9.33333|80.71667|Northern
+Mapalana|6.05|80.56667|
+Maradana|6.92833|79.86417|Western
+Maradankulama|7.55|79.83333|
+Maradurawala|7.51667|80.66667|Central
+Maraka|7.58333|80.96667|Central
+Marapana|6.65308|80.4392|Sabaragamuwa
+Marassana|7.2242|80.7386|Central
+Maratugoda|7.38333|80.56667|Central
+Maratuwela|7.08333|80.78333|Central
+Marawanagoda|7.35|80.55|Central
+Marawila|7.40944|79.83222|North Western
+Mareesankoodal|9.8|79.98333|
+Martuwela|7.08333|80.78333|Central
+Maruddana|7.36667|80.55|Central
+Marukona|7.4042|80.6403|Central
+Maruthampooval|9.28333|80.7|Northern
+Maruthamunai|7.41667|81.81667|Eastern
+Maruthanagar|9.4|80.41667|Northern
+Maruthankerny|9.61667|80.4|Northern
+Masar|9.58333|80.38333|Northern
+Maskeliya|6.83333|80.56667|Central
+Maswela|7.06667|80.63333|Central
+Matalapitiya|7.51667|80.58333|Central
+Matale Polwatta|7.53333|80.63333|Central
+Matale Town|7.46667|80.61667|
+Matgamuwa|7.23333|80.55|Central
+Mathavalasingankulam|9.18333|80.76667|Northern
+Mathgamuwa|7.23333|80.55|Central
+Mattakkuliya|6.9|79.86667|Western
+Mattegoda|6.81667|79.96667|
+Matugama|6.52222|80.11444|Western
+Maviddapuram|9.8|80.03333|Northern
+Mawanella|7.25345|80.4466|Sabaragamuwa
+Mawaramandiya|6.98722|79.97611|Western
+Mawatagama|7.3323|80.4859|Central
+Mawatapola|7.4|80.61667|Central
+Mawathagama|7.2515|80.1911|
+Mawatura|7.1|80.56667|Central
+Mawela|7.25528|80.49472|Central
+Mawilmada|7.33333|80.63333|Central
+Mayavanoor|9.36667|80.46667|Northern
+Meda-Ela|7.53333|80.75|Central
+Medagahawatura|7.08333|80.55|Central
+Medagama|7.03555|81.2757|Uva
+Medakanda|7.03333|80.66667|Central
+Medakele|7.4|80.91667|Central
+Medakumbura|7.43333|80.9|Central
+Medapihilla|7.68333|80.73333|Central
+Medapititenna|7.18333|80.76667|Central
+Medapitiya|7.18333|80.61667|Central
+Medawachchiya|8.55333|80.45833|
+Medawala|7.3576|80.568|Central
+Meddegoda|7.2153|80.5591|Central
+Meddehinna|7.11667|80.81667|Central
+Medilla|6.98333|80.48333|Central
+Medilletenna|7.41667|80.58333|Central
+Medirigiriya|8.15053|80.97898|North Central
+Mediriya|7.3|80.88333|Central
+Mediwaka|7.3|80.88333|Central
+Mediyapola|7.56667|80.58333|Central
+Meemure|7.43333|80.83333|
+Meepawala|6.10917|80.22167|
+Mellagola|7.51667|80.66667|Central
+Menikdiwela|7.08333|80.7333|Central
+Menikhinna|7.31667|80.7|Central
+Menikhinna Town|7.31667|80.7|Central
+Metagama|7.01667|80.63333|Central
+Methagama|7.01667|80.63333|Central
+Metibembiya|7.06667|80.78333|Central
+Metibokka|7.4028|80.5127|Central
+Metideniya|7.3|80.81667|Central
+Metihakka|7.6|80.78333|Central
+Metiwalatenna|7.25|80.9|Central
+Miella|6.12833|80.69028|Southern
+Migammana|7.33333|80.66667|Central
+Migammana Ihalagammedda|7.35|80.66667|Central
+Migammana Mahagammedda|7.35|80.66667|Central
+Migammana Pallegama|7.33333|80.66667|Central
+Migaskotuwa|7.76667|80.56667|Central
+Mihiripenna|6.44583|80.0025|Western
+Milagiriya|6.88889|79.85667|Western
+Millapitiya|7.1|80.86667|Central
+Millawana Ihalagama|7.65|80.56667|Central
+Millawana Pahalagama|7.66667|80.58333|Central
+Mimura|7.43333|80.83333|Central
+Mimure|7.43333|80.83333|Central
+Minigamuwa|7.33333|80.5|Central
+Minipe|7.21667|80.98333|Central
+Minneriya|8.03889|80.905|North Central
+Minuwangoda|7.17333|79.96194|Western
+Mirahampe|7.2|80.78333|Central
+Mirigama|7.24139|80.1325|Western
+Mirissala|7.45|80.55|Central
+Miriyakada|7.21667|80.73333|Central
+Miruppa|7.21667|80.73333|Central
+Mirusuvil|9.66667|80.23333|Northern
+Mitalawa|7.13333|80.51667|Central
+Miwaladeniya|7.21667|80.5833|Central
+Miwatura|7.25|80.58333|Central
+Miyanagolla|7.08333|80.46667|Central
+Miyanakolamada|7.65|80.63333|Central
+Modara|6.95944|79.87528|Western
+Modera|6.96417|79.86833|
+Moladanda|7.28333|80.56667|Central
+Molagoda|7.25|80.38333|Central
+Monaruwila|7.63333|80.6|Central
+Moneragala|6.87139|81.34861|Uva
+Moolai|9.75|79.9167|Northern
+Moondu Murippu|9|80.35|Northern
+Moragahamula|7.28333|80.81667|Central
+Moragahamulla|7.28333|80.81667|Central
+Moragahaulpota|7.5|80.88333|Central
+Moragaspitiya|7.63333|80.61667|Central
+Moragolleyaya|7.53333|80.6|Central
+Morahenegama|6.95|80.46667|Central
+Morape Pallegammedda|7.06667|80.61667|Central
+Morape Udagammedda|7.06667|80.61667|Central
+Moratuwa|6.79907|79.87668|Western
+Motamure|7.28333|80.81667|Central
+Mottuwela|7.55|80.58333|Central
+Mount-Lavinia|6.86667|79.86667|Western
+Mudkomban|9.4|80.28333|Northern
+Muhamalai|9.63333|80.28333|Northern
+Mulankavil|9.23333|80.13333|Northern
+Mulgirigalla|6.12|80.7397|
+Mullaitivu|9.28333|80.8|Northern
+Mullanai|9.78861|79.99417|Northern
+Mulleriyawa|6.93333|79.93333|Western
+Mullivaikkal|9.29583|80.80278|Northern
+Mulliyan|9.55|80.46667|
+Mulliyawalai|9.22056|80.77972|Northern
+Mundel|7.81667|79.81667|North Western
+Munneswaram|7.58078|79.81667|North Western
+Murasumoddai|9.43333|80.46667|Northern
+Muthuiyankaddukulam|9.21667|80.63333|Northern
+Muthuvinayagapuram|9.2|80.63333|Northern
+Muttur|8.45389|81.26556|Eastern
+Myliddy|9.8|80.05|Northern
+Nabadagahawatta|7.76667|80.58333|Central
+Nabadova|6.11667|80.35|Southern
+Nabadowa|6.11667|80.35|Southern
+Nadiganwela|6.23333|81.26667|Southern
+Nagahagoda|6.2|80.1|Southern
+Nagahamulla|6.88478|79.93225|Western
+Nagahapola|7.66667|80.6|Central
+Nagahatenna|7.43333|80.61667|Central
+Nagalawewa|7.96667|80.73333|Southern
+Nagar Kovil|9.70052|80.3087|Northern
+Nagasena|6.9|80.68333|Central
+Nagathevanthurai|9.51667|80.23333|Northern
+Nagolla|7.36667|80.86667|Central
+Naguliadda|7.56667|80.66667|Southern
+Nagulliyadda|7.56667|80.66667|Southern
+Naiduwa|6.1|80.16667|Southern
+Nakanda|6.15|80.1|Southern
+Nakandawala|6.26667|80.68333|Southern
+Nakulugamuwa|6|80.7|Southern
+Nalagasdeniya|6.13333|80.1|
+Nalanda|7.51667|80.56667|Central
+Nallur|9.45|80.26667|Northern
+Namadagala|7.3|80.81667|Central
+Namanamkulam|9.11667|80.31667|Northern
+Nampamunuwa|6.8|79.95|Western
+Nanaddan|8.83333|79.9667|Northern
+Nanu Oya|6.93333|80.75|Central
+Nanumure|7.46667|80.63333|Central
+Napana Disaneggammedda|7.31667|80.66667|Central
+Napana Disanekgammedda|7.31667|80.66667|Central
+Napana Hunuangegammedda|7.31667|80.68333|Central
+Napatawela|7.1|80.8|Central
+Narahenpita|6.89222|79.87694|Western
+Narammala|7.43444|80.22139|North Western
+Narandanda|7.35|80.68333|Central
+Narangolla|7.5344|80.6849|Central
+Narangomuwa|7.6169|80.6327|Central
+Naranpanawa|7.35|80.73333|Central
+Naranpanawa Dembatagolla|7.35|80.71667|Central
+Naranpanawa Disaneggammedda|7.33333|80.71667|Central
+Naranpanawa Egodagammedda|7.35|80.73333|Central
+Naranpanawa Kandegammedda|7.35|80.73333|Central
+Naranpanawa Karagastenna|7.33333|80.73333|Central
+Naranpanawe Dembatagolla|7.35|80.71667|Central
+Naranpanawe Disanekgammedda|7.33333|80.71667|Central
+Naranpanawe Egodagammedda|7.35|80.73333|Central
+Naranpanawe Kandegammedda|7.35|80.73333|Central
+Naranpanawe Karagastenna|7.33333|80.73333|Central
+Narantalawa|7.36667|80.86667|Central
+Naranthanai|9.6754|79.8813|Northern
+Naranwala|7.21667|80.56667|Central
+Naranwita|7.16667|80.58333|Central
+Narawala|6.1|80.2333|
+Narigama|6.12561|80.11131|Southern
+Nattarampota|7.28333|80.68333|Central
+Naula|7.7|80.65|Central
+Navagattegama|8.7|80.2|
+Navaladi|9.41667|80.16667|Northern
+Navalady|7.7318|81.7069|
+Navaly|9.71528|79.98472|Northern
+Navangama|7.06667|80.65|Central
+Navathkuli|9.65|80.08333|Northern
+Navatkadu|9.71667|80.25|
+Navatkadu|9.7112|80.2437|Northern
+Navatkulam|9.11667|80.4|Northern
+Navatkuly|9.65|80.08333|Northern
+Navithanveli|7.41778|81.75194|Eastern
+Nawala|6.9|79.88333|Western
+Nawalapitiya|7.05|80.53333|Central
+Nawangama|7.06667|80.65|Central
+Nawaragoda|7.43333|80.65|Central
+Nawayalatenna|7.33333|80.63333|Central
+Nawayalatenna Bazaar|7.33333|80.63333|Central
+Nayakkar Chenai|7.96072|79.79578|
+Nayakumbura|7.76667|80.68333|Central
+Nedunkerny|9.06144|80.66089|Northern
+Neeravipiddy|9.21667|80.78333|Northern
+Nehiniwala|7.25|80.66667|Central
+Nelliady|9.8|80.2|
+Nelugolla|7.11667|80.81667|Central
+Nelukkulam|8.75825|80.45714|Northern
+Neluwakanda|7.45|80.66667|Central
+Nikagolla|7.5641|80.5953|Central
+Nikahetiya|7.2258|80.5387|Central
+Nikatenna|7.31667|80.46667|Central
+Nikawatawana|7.88333|80.75|Central
+Nikawella|7.51667|80.66667|Central
+Nikaweratiya|7.7475|80.11561|
+Nilavarai|9.75|80.08333|Northern
+Nilaveli|8.68333|81.2|Eastern
+Nildandahinna|7.06667|80.9|Central
+Nilgala|7.31667|80.78333|Central
+Niripola|6.9|80.1|
+Nittambuwa|7.15|80.1|Western
+Nittawela|7.31667|80.63333|Central
+Nittultenna|7.3|80.7|Central
+Nituletenna|7.3|80.7|Central
+Nitulgahakotuwa|7.41667|80.63333|Central
+Niyambepola|7.35|80.56667|Central
+Niyamgamdora|7.05|80.65|Central
+Niyangama|7.421|80.5458|Central
+Niyangandara|7.05|80.65|Central
+Niyangoda|7.35|80.55|Central
+Niyarepola|7.41667|80.65|Central
+Nonagama|6.11667|81|
+Norton|6.91667|80.51667|Central
+Norton Bridge|6.91667|80.51667|Central
+Norwood|6.83333|80.6|Central
+Norwood Bazaar|6.83333|80.6|Central
+Nugahapola|7.7|80.56667|Central
+Nugaliyadda|7.23333|80.68333|Central
+Nugapitiya|7.4|80.61667|Central
+Nugatenna|7.28333|80.85|Central
+Nugawelagammedda|7.06667|80.6|Central
+Nugegoda|6.86389|79.89889|Western
+Nugetenna|7.28333|80.85|Central
+Nuwara Dodanwala|7.28333|80.61667|Central
+Nuwara Dodanwela|7.28333|80.61667|Central
+Nuwara Eliya Town|6.96667|80.76667|Central
+Nuwari-Eliya|6.96667|80.76667|Central
+Obadagahadeniya|6.25|80.66667|Southern
+Obadawatta|6.41667|80|Southern
+Oddaruthathakulam|9.16667|80.36667|Northern
+Oddusuddan|9.15|80.65|Northern
+Ohiya|6.81972|80.83917|Uva
+Okanda|6.65|81.76667|Eastern
+Okandeyaya|6.21667|80.78333|Southern
+Okawala|6.1|80.71667|Southern
+Okewela|6.1|80.71667|Southern
+Okewelagoda|6.1|80.71667|Southern
+Olagama|7.5116|80.5087|Southern
+Olaganduwa|6.38333|80.01667|Southern
+Olaganwatta|7.65|80.6|Central
+Old Peradeniya|7.26667|80.58333|Central
+Oligoda|6.36667|80.01667|Southern
+Oluara|6.16667|80.68333|Southern
+Olumadu|9.15|80.48333|Northern
+Olupeliya|6.08333|80.68333|Southern
+Oluwawatta|7.2|80.73333|Central
+Omanthai|8.86667|80.5|Northern
+Omatta|6.35|80.16667|Southern
+Ooriyan|9.48333|80.45|Northern
+Opalgalawatta|7.55|80.66667|Central
+Opalla|7.3812|80.4902|Central
+Otagama|7.28333|80.88333|Central
+Otalawa|7.06667|80.66667|Central
+Othiyamalai|9.05|80.7|Northern
+Oture|6.08333|80.68333|Southern
+Ovilikanda|7.45|80.56667|Central
+Ovisa|7.38333|80.6|Central
+Ovitipana|7.53333|80.6|Southern
+Owala|7.26667|80.56667|Central
+Owalapolwatta|7.53333|80.63333|Central
+Owilana|6.01667|80.73333|Southern
+Owilikanda|7.45|80.56667|Southern
+Owilla|7.45|80.58333|Southern
+Owisa|7.38333|80.6|Central
+Owitipana|7.53333|80.6|Central
+Oyatenna|7.35|80.91667|Central
+Paali Nagar|9.1|80.33333|Northern
+Pachilaipalli|9.56667|80.45|Northern
+Padavkema|6.35|81.16667|Southern
+Padawala|7.48333|81.23333|Eastern
+Padawkema|6.35|81.16667|Southern
+Padeniya|7.6537|80.2287|North Central
+Padilikokmaduwa|6.01667|80.43333|Southern
+Padiwitagama|7.45|80.6|Central
+Padiwitawela|7.45|80.6|Central
+Padiyapelella|7.08333|80.8|Central
+Padiyathalawa|7.40358|81.24361|Eastern
+Paduanga|7.71667|80.56667|Southern
+Paduange|7.71667|80.56667|Southern
+Paduangoda|7.21667|80.5833|Central
+Padukka|6.835|80.09167|
+Paduwangoda|7.21667|80.5833|Central
+Pahajjawa|6|80.71667|Southern
+Pahala Aturaliya|6.06667|80.5|Southern
+Pahala Ganegama|6.03333|80.51667|Southern
+Pahala Keembiya|6.13333|80.23333|Southern
+Pahaladiggala|7.83333|80.58333|
+Pahalakande Bavulana|7.21667|80.73333|Central
+Pahalawela|7.45|80.61667|Central
+Paladoraella|7.06667|80.65|Central
+Palagolla|6.93333|81.13333|Central
+Palai|9.6|80.31667|Northern
+Palali|9.8|80.08333|Northern
+Palampasi|9.0834|80.687|
+Palampasi|9.06667|80.68333|Northern
+Palampiddi|8.91667|80.2|Northern
+Palampoddaru|8.5142|81.111|
+Palapatwela|7.53139|80.6258|Central
+Palatupana|6.2393|81.3673|Southern
+Palavi|9.41667|80.11667|Northern
+Palayamurikandy|9.16667|80.31667|Northern
+Paldeniya|7.6101|80.6029|Central
+Palipana|7.38333|80.58333|Central
+Palkumbura|7.3295|80.5547|Central
+Pallavarayankaddu|9.26667|80.18333|Northern
+Palle Aludeniya|7.21667|80.6|Central
+Palle Deltota|7.18333|80.66667|Central
+Palle Galadebokka|7.41667|80.9|Central
+Palle Hapuwida|7.43333|80.66667|Central
+Palle Ihagama|7.36667|80.56667|Central
+Palle Mailapitiya|7.23333|80.75|Central
+Palle Makuruppe|7.13333|80.8|Central
+Palle Talawinna|7.3388|80.6396|Central
+Palle Talawinna Udagammedda|7.33333|80.63333|Central
+Palle Weragama|7.48333|80.65|Central
+Palleaswedduma|7.55|80.68333|Central
+Pallegama|7.16389|80.72556|Central
+Pallegama Ihalagammedda|7.33333|80.68333|Central
+Pallegama Pahalagammedda|7.31667|80.65|Central
+Pallehaduwa|7.71667|80.66667|Central
+Pallehena|7.06667|80.91667|Central
+Pallekele|7.3|80.71667|Central
+Pallekele Kadawidiya|7.28333|80.71667|Central
+Pallepola|7.3338|80.46|Central
+Palletenna|7.31667|80.46667|Central
+Pallewela|7.1967|80.094|Western
+Palu Rotawewa|7.8|80.53333|Central
+Palugama|7.1984|80.6778|Central
+Palukopiwatta|7.36667|80.53333|Central
+Pamankada|6.87528|79.87528|Western
+Pamunudeniya|7.58333|80.58333|Central
+Pamunuwa|7.5209|80.5995|Western
+Panabokke|7.23333|80.55|Central
+Panadura|6.71333|79.90417|Western
+Panagoda|6.84722|80.01889|
+Panangammana|7.068|80.6684|Central
+Pananwala|6.98333|80.03333|Central
+Panatale|7.13333|80.85|Central
+Panawelulla|7.33333|80.9|Central
+Panchikawatte|6.92583|79.87528|Western
+Pandaravanni|9.18333|80.68333|Northern
+Pandatharippu|9.77306|79.9675|Northern
+Pandiyankulam|9.06667|80.3|Northern
+Pangala|7.85|80.56667|Central
+Pangollamada|7.3893|80.6402|Central
+Panikkankulam|9.15|80.48333|Northern
+Pannagam|9.7285|79.9475|Northern
+Pannala|7.32806|80.02417|North Western
+Pannala II|7.15|80.86667|Central
+Pannampitiya|7.76667|80.66667|Central
+Pannangandi|9.4|80.43333|Northern
+Pannanpitiya|7.76667|80.66667|Central
+Pannawa|7.65|80.3167|North Western
+Pannipitiya|6.85|79.95|
+Panwatta|7.46667|80.58333|Central
+Panwila|7.3664|80.7119|Central
+Panwila Town|7.36667|80.71667|
+Panwilatenna|7.15|80.63333|Central
+Paradeka|7.11667|80.6|Central
+Paragahawela|7.41667|80.63333|Central
+Paragaswewa|7.61667|80.51667|
+Parakatawella|7.28333|80.53333|Central
+Paranagama Hapukotuwegammedda|7.35|80.63333|Central
+Paranagama Mandandawela|7.36667|80.63333|Central
+Paranthan|9.42528|80.42306|Northern
+Pasikudah|7.73333|81.61667|Eastern
+Patkolagolla|7.76667|80.56667|Central
+Pattipola|6.8585|80.8309|Uva
+Pattitalawa|7.11667|80.46667|Central
+Pattiwela|7.78333|80.55|Central
+Pattunupitiya|7.08333|80.53333|Central
+Payingomuwa|7.21667|80.6|Central
+Pelawa|7.3|80.56667|Central
+Pelawatte|6.89111|79.92833|Western
+Pelenegama|7.35|80.51667|Central
+Peliyagoda|6.96337|79.88189|Western
+Pellepitiya|7.11667|80.53333|Central
+Pelwadiya|6.66667|80.4|Sabaragamuwa
+Penahetipola|7.36667|80.56667|Central
+Penalaboda|7.7|80.65|Central
+Penideniya|7.25|80.58333|Central
+Peradeniya|7.26806|80.59667|Central
+Peradenya|7.26667|80.58333|Central
+Peraliya|6.14722|80.11028|Southern
+Peraru|9.18333|80.68333|Northern
+Periya Paranthan|9.41667|80.38333|Northern
+Periyaithimadu|9.15|80.68333|Northern
+Pesalai|9.08333|79.83333|Northern
+Petiyagoda|7.2134|81.171|Central
+Piharallegama|7.11667|80.88333|Central
+Pilawala|7.3|80.68333|Central
+Piligalla|7.23333|80.58333|Central
+Piligama|7.25|80.55|Central
+Pilihudugolla|7.68333|80.65|Central
+Pilihudugolla Ihalagama|7.7|80.65|Central
+Pilihudugolla Pahalagama|7.68333|80.65|Central
+Pilimathalawa|7.27|80.57|Central
+Piliwela|7.08333|80.56667|Central
+Piliyandala|6.85|79.95|Western
+Pinnalandawatta|7.5|80.6|Central
+Pinnawala|7.29883|80.38674|Sabaragamuwa
+Pinwatta|6.69028|79.9125|
+Piramanthanaru|9.4|80.58333|Northern
+Piranpattu|9.76667|79.98333|Northern
+Pirappuvedduvaan|9.26667|80.7|Northern
+Pita Kotte|6.89056|79.90139|
+Pitipana North Homagama|6.83333|80.01667|
+Pitiyagedera|7.33333|80.68333|Central
+Pitunugama|7.2|80.6|Central
+Poddalgoda|7.33333|80.78333|Central
+Poddalgoda Megodagama|7.33333|80.78333|Central
+Pohaliyadda|7.35|80.51667|Central
+Poholiadda|7.35|80.51667|Central
+Pohorabawa|6.4727|80.1843|Sabaragamuwa
+Pohoranwewayaya|7.85|80.63333|Central
+Point Pedro|9.81667|80.23333|Northern
+Pokunuwatta|7.05|80.66667|Central
+Polgaha-anga|7.2|80.6|Central
+Polgahange|7.2|80.6|Central
+Polgahawela|7.33444|80.30306|
+Polgasowita|6.78417|79.98111|
+Polgolla|7.33333|80.65|Central
+Polikandy|9.81667|80.23333|Northern
+Polmalagama|7.13333|80.55|Central
+Polommana|7.53333|80.76667|Central
+Polpitiya|6.97639|80.45056|Central
+Polwatta Colony|7.53333|80.66667|Central
+Polwatte Ihalagama|7.33333|80.48333|Central
+Polwattekanda|7.53333|80.7|Central
+Ponnagar|9.31667|80.38333|Northern
+Ponnaveli|9.36667|80.08333|Northern
+Pooneryn|9.5|80.2|Northern
+Poonthaddam|8.76217|80.50332|Northern
+Poovarankulam|9.1|80.28333|Northern
+Poppitiya|7.36667|80.9|Central
+Porawagala|6.8302|81.0128|
+Pothuhera|7.48333|80.36667|North Western
+Pothuwila|7.83333|80.46028|North Western
+Pottallinda|7.11667|80.86667|Central
+Pottatawela|7.6|80.76667|Central
+Pottepitiya|7.3|80.5|Central
+Pottila|7.36667|80.48333|Central
+Pottuvil|6.86667|81.81667|Eastern
+Pubbarawela|7.55|80.76667|Central
+Pubbiliya|7.3784|80.4845|Central
+Pugalenthinagar|9.11667|80.3|Northern
+Puliyadda|7.25|80.65|Central
+Puliyankulam|8.95|80.51667|Northern
+Puliyanthivu|7.71261|81.69704|Eastern
+Pulleniwatta|7.31667|80.5|Central
+Puloly|9.8|80.21667|Northern
+Puloppalai|9.58333|80.33333|Northern
+Punanai|7.96366|81.38723|Eastern
+Punchlrambadagalla|7.71667|80.58333|Central
+Pundaloya|7.01667|80.66667|Central
+Pundaluoya|7.01667|80.66667|Central
+Punduloya|7.01667|80.66667|Central
+Punnaineeraavi|9.4|80.56667|Northern
+Punnalaikadduvan|9.75744|80.06277|Northern
+Pupuressa|7.13333|80.66667|Central
+Puraamkumbura|7.08333|80.9|Central
+Purijjala|7.45|80.61667|Central
+Puruduwella|7.45|79.8667|North Western
+Pussalagolla|7.31667|80.78333|Central
+Pussalakandura|7.15|80.86667|Central
+Pussalamankada|7.18333|80.76667|Central
+Pusse-Ela|7.4|80.83333|Central
+Pussella|7.26667|80.35|
+Pussellagolla|7.31667|80.78333|Central
+Pussellawa|7.10533|80.63667|Central
+Pusulpitiya|7.05|80.65|Central
+Putharikuda|9.23333|80.78333|Northern
+Puthukkudiyiruppu|9.3|80.68333|Northern
+Puthukkudiyiruppu (Mannar)|9.05083|79.85083|Northern
+Puthumattalan|9.36667|80.73333|Northern
+Puthumurippu|9.36667|80.35|Northern
+Puthuvedduvan|9.26667|80.36667|Northern
+Puttur|9.73333|80.1|Northern
+Puwakgahagala|7.56667|80.61667|Central
+Puwakpitiya|7.5749|80.6386|Central
+Rabbegamuwa|7.23333|80.56667|Central
+Radampola|6|80.66667|Southern
+Radaniara|6.2|80.68333|Southern
+Radaniyara|6.2|80.68333|Southern
+Radompola|6|80.66667|Southern
+Radunnewela|7.6|80.96667|Central
+Ragala|7.26667|80.23333|Central
+Ragama|7.02944|79.93278|Western
+Rahatungoda|7.11667|80.76667|Central
+Raitalawa|7.55|80.66667|Central
+Raitalawela|7.4|80.65|Central
+Rajagiriya|6.91917|79.895|Western
+Rajapuragoda|6.13333|80.66667|Southern
+Rajjamana|7.61667|80.66667|Southern
+Rajjammana|7.61667|80.66667|Central
+Rakwana|6.47167|80.61167|Sabaragamuwa
+Rallagerotawewa|7.81667|80.53333|Southern
+Rallerotawewa|7.81667|80.53333|Southern
+Ramavil|9.68333|80.2|Northern
+Rambawela|7.83333|80.56667|Central
+Ramboda|7.05|80.7|Central
+Rambuke|7.08333|80.86667|Central
+Rambukella|7.3|80.78333|Central
+Rambukewela|7.4|80.56667|Central
+Rambukkewela|7.4|80.56667|Central
+Rambukkoluwa|7.51667|80.8|Central
+Rambukpota-anga|7.35|80.63333|Central
+Rammalaka|7.25|80.53333|Central
+Rammalakandura|7.15|80.83333|Central
+Ranamure|7.5|80.83333|Central
+Ranatalawa|7.06667|80.6|Central
+Ranawa|7.91667|80.58333|Central
+Rangala|7.35|80.78333|Central
+Rangomuwa|7.33333|80.45|Central
+Rankiriyagolla|7.26667|80.93333|Central
+Rannantalawa|7.06667|80.6|Central
+Ranwantalawa|7.06667|80.6|Central
+Ranwediyawa|7.75|80.55|Central
+Rassagoda|7.23333|80.91667|Central
+Ratalawewa|7.56667|80.61667|Central
+Rathgama|6.1|80.15|Southern
+Rathkarawwa|6.8048|80.90672|
+Rathnapuram|9.353|80.436|Northern
+Ratmalakaduwa|7.16667|80.55|Central
+Ratmalana|6.82194|79.88611|Western
+Ratmeewala|7.28333|80.5|Central
+Ratmiwala|7.28333|80.5|Central
+Ratninda|7.51667|80.75|Central
+Rattota|7.51667|80.68333|Central
+Ratwatta|7.4121|80.659|Central
+Rawanagoda|7|80.61667|Central
+Rekitipe|7.18333|80.75|Central
+Rerukana|6.7315|79.9986|Western
+Retiyagama|7.3|80.8|Central
+Ridiella|7.8|80.78333|Central
+Rikillagaskada|7.15|80.78333|Central
+Rogersongama|7.03333|80.63333|Central
+Rottipehilla|7.15|80.76667|Central
+Rozella|6.93333|80.55|Central
+Rukmale|6.85704|79.98559|Western
+Rupaha|7.03333|80.9|Central
+Rusigama|7.61667|80.58333|Central
+Ruwanwella|7.04566|80.25422|Sabaragamuwa
+Saddam Hussein Nagar|7.78333|81.6|Eastern
+Sahabandukokmaduwa|6.01667|80.45|Southern
+Sainthamaruthu|7.39389|81.83389|Eastern
+Samarakonehena|7.18333|80.61667|Central
+Sammanthurai|7.36667|81.8|Eastern
+Samodagama|6.13333|81.11667|Southern
+Sampur|8.48333|81.28333|Eastern
+Sandilipay|9.75|79.98333|
+Sangilipalam|7.05|80.68333|Central
+Sangilipalama|7.05|80.68333|Central
+Sangupiddy|9.53333|80.18333|Northern
+Sanguveli|9.7357|80|
+Sankarathai|9.73333|79.96667|
+Sapugahayaya|6.26667|80.75|Southern
+Sapugaskanda|6.96944|79.95417|Western
+Sapugoda|6.08333|80.55|Southern
+Sapugodawela|6.06667|80.68333|Southern
+Saputantirikanda|6.23333|80.63333|Southern
+Sathurukondan|7.66667|81.7|Eastern
+Savatkadu|9.7|80|Northern
+Seeduwa|7.13139|79.87639|Western
+Seenigama|6.15675|80.09248|Southern
+Seenimodera|6|80.75|Southern
+Selagama|7.58333|80.58333|Central
+Selagama Colony|7.58333|80.58333|Central
+Sellankandal|8.03333|79.9|
+Serudandapola|7.73333|80.66667|Central
+Sevanagala|6.38667|80.90917|Uva
+Shanjeev Home|7.38216|81.84198|
+Silawaththai|9.23333|80.83333|Northern
+Sillalai|9.77923|79.94288|Northern
+Silvetgama|7.78333|80.6|Southern
+Singhapitiya|7.16667|80.55|
+Singharamulla|6.95|79.9|
+Sinhapitiya|7.16667|80.55|Central
+Sinigama|6.16667|80.08333|Southern
+Siraddikulam|9.05|80.23333|Northern
+Sirangahawatta|7.55|80.7|Central
+Sirimalwatta|7.3|80.65|Central
+Siruthoppu|9.08333|79.83333|Northern
+Sita Eliya|6.93333|80.8|Central
+Sivanagar|9.33333|80.7|Northern
+Sivapuram|9.08333|80.31667|Northern
+Sivurupitiya|7.33333|80.51667|Central
+Siyambalagahawela|7.71667|80.6|Central
+Siyambalagastenna|7.31667|80.63333|Central
+Siyambalagoda|7.2194|80.5571|Central
+Siyambalapitiya|7.267|80.3424|Central
+Skanthapuram|9.33333|80.31667|Northern
+Sooriyawewa|6.31667|81|Southern
+Soranpattu|9.58333|80.36667|Northern
+Sri Jayawardenepura Kotte|6.9|79.91639|Western
+Subramaniam Park|9.661|80.0126|Northern
+Suduhakurugama|7.6|80.6|Central
+Suriyagoda|7.2792|80.5693|Central
+Suthanthirapuram|9.38333|80.63333|Northern
+Suthumalai|9.71667|80|Northern
+Tachchankulam|8.75|80.5|Northern
+Taddamalai|9.11667|80.6833|Northern
+Taddankulam|9.08333|80.3667|Northern
+Tadduvankoddi|9.5|80.4167|Northern
+Tahalpitiya|7.35|80.5333|Central
+Talagahadiwela|6.06667|80.6833|Southern
+Talagasgoda|6.18333|80.0833|Southern
+Talagaspe|6.3|80.2|Southern
+Talagasyaya|7.61667|80.65|Central
+Talagoda|7.68333|80.75|Central
+Talagune|7.33333|80.8833|Central
+Talahagama|6.13333|80.5167|Southern
+Talaimannar|9.1|79.71667|Northern
+Talakiriyagama|7.81667|80.6167|Central
+Talakiriyagma|7.81667|80.6167|Central
+Talakiriyawa|7.68333|80.5833|Central
+Talakolawela|7.58333|80.9167|Central
+Talalla North|5.96667|80.6167|Southern
+Talalla South|5.95|80.6167|Southern
+Talamporuwa|6.13333|80.85|Southern
+Talangalla|6.28333|80.3833|Southern
+Talanwela|6.06667|80.6667|Southern
+Talapelellagoda|7.36667|80.5167|Central
+Talatuoya|7.25|80.6833|Central
+Talawakelle|6.93333|80.65|Central
+Talawatta|7.2509|80.5753|Central
+Talawatura|7.2|80.5833|Central
+Talpe|6|80.27861|Southern
+Talwatta|7.26667|80.66667|Central
+Tammitiya|7.06667|80.6333|Central
+Tanakkankulam|8.56667|79.9333|Northern
+Tanduvan|9.08333|80.6667|Northern
+Taralanda|7.46667|80.6167|Central
+Tawalantenna|7.06667|80.66667|Central
+Telambugahawatta|7.36667|80.6167|Central
+Teldeniya|7.3|80.7667|Central
+Telihunna|7.13333|80.5333|Central
+Tellippalai|9.78333|80.0333|Northern
+Telliyankudiyiruppu|9.05|79.85|Northern
+Tembiligala Pallegama|7.13333|80.55|Central
+Tembiligala Udagama|7.13333|80.5667|Central
+Tenna|7.45|80.6|Central
+Tennehenwala|7.11667|80.85|Central
+Tennekumbura|7.2781|80.6617|Central
+Tepugolla|7.06667|80.9|Central
+Terankandal|9.16667|80.3|Northern
+Teripaha|7.11667|80.9167|Central
+Teripehagama|7.11667|80.9167|Central
+Thachadampan|9.16667|80.51667|Northern
+Thaddayamalai|9.2|80.63333|Northern
+Thadduvankoddy|9.5|80.41667|Northern
+Thaiyiddi|9.8|80.05|Northern
+Thalawathugoda|6.873|79.942|Western
+Thambiluvil|7.13333|81.85|Eastern
+Thammannakulama|6.85|79.95|
+Thampalai|9.78333|80.1167|Northern
+Thampalakamam|8.51667|81.08333|Eastern
+Thampanaikkulam|8.79889|80.1075|Northern
+Thanankilappu|9.63333|80.15|Northern
+Thanduvan|9.1|80.68333|Northern
+Thankodai|9.75|79.8667|Northern
+Thannimurippu|9.1|80.76667|Northern
+Thannipavilan Kudiyiruppu|9.05|79.85|Northern
+Thanthai Selvapuram|9.78333|80.01667|Northern
+Thanthirimale|8.57206|80.25278|
+Tharakundu|9|79.8667|Northern
+Tharmakerny|9.56667|80.35|Northern
+Tharmakundu|9.58333|79.8167|Northern
+Tharmapuram|9.41667|80.51667|Northern
+Thatchchanthoppu|9.65|80.1|Northern
+Thattantotam|9.55|80.4333|Northern
+Thavady|9.70865|80.0169|Northern
+Thavalai|9.7|80.18333|Northern
+Thavalai Iyattalai|9.712|80.201|Northern
+Thayilan Kudiyiruppu|9.06667|79.85|Northern
+Thekkuluthu|8.56667|81.1833|Northern
+Theliyagonna|7.4807|80.3774|North Western
+Thenmarachchi|9.7|80.2|Northern
+Thenniyankulam|9.2|80.25|Northern
+Therangandal|9.16667|80.31667|Northern
+Theravil|9.35|80.56667|Northern
+Thevipuram|9.35|80.68333|Northern
+Thikkam|9.83333|80.2|Northern
+Thikkoddaimadu|7.53333|81.6833|Northern
+Thine Kanuwa|7.7|80.6833|Central
+Thinniyagala|6.98333|80.4833|Central
+Thiranagama East|6.12768|80.12551|Southern
+Thiriyai|8.87036|81.0074|Eastern
+Thirukkovil|7.13333|81.85|Eastern
+Thirumurikandy|9.3|80.41667|Northern
+Thiruvadinilayam|9.76667|79.9333|Northern
+Thiruvaiyaru|9.36667|80.41667|Northern
+Tholakaddy|9.78333|80.0833|Northern
+Tholpuram|9.7575|79.95028|Northern
+Thondaimanaru|9.81667|80.1333|Northern
+Thondaman Nagar|9.36667|80.41667|Northern
+Thonikkal|8.77611|80.45778|Northern
+Thoppu|9.76667|80.1|Northern
+Thoranegedara|7.5112|80.1581|North Western
+Thulhiriya|7.2736|80.2266|
+Thullukudi Kudiyiruppu|9.08333|79.8|Northern
+Thumbara|7.83333|80.6|Central
+Thumbe|6.07806|80.5925|
+Thumpalai|9.81667|80.25|Northern
+Thunavy|9.71667|79.9667|Northern
+Thunnalai|9.78333|80.2333|Northern
+Thunukkai|9.13333|80.28333|Northern
+Thurkkapuram|9.783|80.0207|
+Thuvarankerni|8.9|79.9667|Northern
+Tibbotuwawa|7.4356|80.5866|Central
+Tientsin|6.81667|80.65|Central
+Tillicoultry|6.9|80.6833|Central
+Tiniyagala|6.98333|80.4833|Central
+Tirappuwa|7.23333|80.5667|Central
+Tirunelveli East|9.68333|80.0333|Northern
+Tirunelveli West|9.68333|80.0167|Northern
+Tismada|7.3|80.5|Central
+Tismoda|7.3|80.5|Central
+Tispane|7.05|80.6167|Central
+Tissamaharama|6.28333|81.28333|Southern
+Tittapajjala|7.33333|80.6|Central
+Tiyambara-ambe|7.11667|80.5167|Central
+Tumpelawaka|7.16667|80.6667|Central
+Tumpelawake|7.16667|80.6667|Central
+Tunhitiyawa|7.06667|80.9333|Central
+Tunoathliyadda|7.51667|80.6167|Central
+Uda Aludeniya|7.2|80.5833|Central
+Uda Ambala|6.03333|80.7|Southern
+Uda Aparekka|6|80.6167|Southern
+Uda Galadebokke|7.41667|80.9|Central
+Uda Hapuwida|7.4503|80.6601|Central
+Uda Henepola|7.336|80.5265|Central
+Uda Iluka|7.4|80.9|Central
+Uda Madapota|7.3|80.63333|Central
+Uda Mailapitiya|7.23333|80.75|Central
+Uda Makuruppe|7.13333|80.8|Central
+Uda Pussellawa|6.9997|80.9039|Central
+Uda Pussellawa Estate|7.01667|80.8833|
+Uda Talawinna|7.35|80.65|Central
+Uda Talawinna Megodagammedda|7.35|80.6333|Central
+Uda Talawinnamadige|7.35|80.65|Central
+Udabalgama|6.03333|80.4167|Southern
+Udabatgama|6.03333|80.4167|Southern
+Udaberagama|6.16667|81.0333|Southern
+Udabowala|7.15|80.7333|Central
+Udadumbara|7.35|80.83333|Central
+Udagaladebokka|7.41667|80.9|Central
+Udagalauda|7.16667|80.8167|Central
+Udagama|6.4686|80.01693|Western
+Udagama Pallegama|7.35|80.7167|Central
+Udagomadiya|6.28333|80.6833|Southern
+Udahaduwa|7.73333|80.6833|Central
+Udahentenna|7.1|80.5167|Central
+Udaheragama|6.16667|81.0333|Southern
+Udaiyadi|8.88333|80.0333|Northern
+Udaiyarthurai|9.58333|80.45|Northern
+Udakanuketiya|6.13333|80.9333|Southern
+Udakerawa|6.2|80.0833|Southern
+Udakerewa|6.2|80.0833|Southern
+Udakottamulla|7.3943|80.5054|Central
+Udakumbura|7.5|80.81667|Central
+Udalugama|7.38333|80.5167|Central
+Udalugaputenna|7.28333|80.9667|Central
+Udalumada|7.13333|80.7833|Central
+Udamadura|7.08333|80.9167|Central
+Udangomuwa|7.41667|80.6667|Central
+Udapadiyapelella|7.1|80.8|Central
+Udapitawela|7.3|80.9|Central
+Udappu|7.75|79.8|North Western
+Udatenna|7.41667|80.65|Central
+Udawalawa|6.46667|80.8833|Sabaragamuwa
+Udayarkaddu|9.35|80.6|Northern
+Udayarsamalankulam|9.18333|80.5833|Northern
+Udispattu|7.31667|80.7833|Central
+Udowita|7.18333|80.6|Central
+Ududaha|7.35|80.9333|Central
+Ududeniya|7.6471|80.639|Central
+Ududeniya Madige|7.2|80.75|Central
+Ududeniya Sinhalagama|7.2|80.75|Central
+Udugalpitiye Kuppayama|7.26667|80.5333|Central
+Udugama|7.51167|80.61639|Central
+Udugama|6.21472|80.33972|Southern
+Udugampola|7|79.9833|Western
+Udugoda|7.3631|80.6927|Central
+Udumulla|7.3704|80.2334|Central
+Udupattukkandal|9.45|80.4667|Northern
+Udupiddy|9.80444|80.16194|Northern
+Udupihilla|7.43333|80.6167|Central
+Udurawana|7.35|80.6667|Central
+Udurawana Megodagammedda|7.36667|80.6667|Central
+Uduthurai|9.6|80.4167|Northern
+Uduvil|9.73333|80|Northern
+Uduwa|7.3597|80.4879|Central
+Uduwawala|7.33333|80.6167|Central
+Uduwela Pallegama|7.25|80.65|Central
+Uduwela Udagama|7.25|80.65|Central
+Uduwelwala|7.48333|80.9167|Central
+Uduwerella|7.18333|80.5667|Central
+Uggahakumbura|7.38333|80.5667|Central
+Uggalboda|6.6164|79.9663|Western
+Uguresapitiya|7.31667|80.6|Central
+Uguressapitiya|7.31667|80.6|Central
+Ukkulankulam|8.73333|80.1833|Northern
+Ukuwala|7.41667|80.6167|Central
+Ukuwela|7.41667|80.6167|Central
+Ulakkonde|7.21667|80.5833|Central
+Ulandupitiya|7.35|80.5833|Central
+Ulapane|7.1|80.55|Central
+Ullandupitiya|7.35|80.5833|Central
+Ullekumbura|7.6|80.6167|Central
+Ulpotagama|8.0187|80.3071|Central
+Ulpotagama Iluka|7.36667|80.9333|Central
+Uluvaneri|9.05|80.2667|Northern
+Umaiyalpuram|9.46667|80.4|Northern
+Umaneri|8.85|79.9667|Northern
+Umayartuvarankulam|8.88333|80.3833|Northern
+Unambuwa|7.18333|80.5667|Central
+Unantenna Pallegammedda|7.16667|80.75|Central
+Unantenna Pallegammedde|7.16667|80.75|Central
+Unapandureyaya|7.15|80.8333|Central
+Unawatuna|6.01667|80.25|Southern
+Unaweruwa|7.51667|80.6|Central
+Unchalkaddi|8.96667|80.65|Northern
+Union Place|6.92167|79.85528|Western
+Upcot|6.78333|80.6333|Central
+Uppukkulam|8.98333|79.9167|Northern
+Uppumaveli|9.2|80.85|Northern
+Upputtaravai|9.1|79.75|Northern
+Uradeniya|7.3|80.6833|Central
+Uragasmanhandiya|6.35|80.1|Southern
+Urapola|7.2691|80.5382|Western
+Urawela|7.38333|80.55|Central
+Urelu|9.73333|80.05|Northern
+Uriyan|9.46667|80.45|Northern
+Urugalakadawidiya|7.28333|80.8167|Central
+Uruherapola|7.1|80.8833|Central
+Urulewatta|7.5716|80.5762|Central
+Urumpirai|9.71667|80.0333|Northern
+Uruthirapuram|9.41667|80.33333|Northern
+Urvanikanpattu|9.55|80.3667|Northern
+Usan|9.65|80.241|Northern
+Uswetakeiyawa|7.05|79.86667|
+Uthayanagar|9.36667|80.38333|Northern
+Uthiravengai|9.36667|80.4|Northern
+Uthuvayankulam|8.86667|80.0167|Northern
+Uttukkulam|8.91667|80.6667|Northern
+Uvarkkulam|8.86667|80.3833|Northern
+Uvayatikulam|8.71667|80.1667|Northern
+Uyarapulam|9.7|80|Northern
+Vadamarachchi|9.7|80.31667|Northern
+Vaddakkachchi|9.4|80.4667|Northern
+Vaddakkandal|8.9|80.0333|Northern
+Vaddukoddai|9.7285|79.9475|Northern
+Vaddukoddai East|9.73333|79.95|Northern
+Vaddukoddai West|9.75|79.95|Northern
+Vadduvakal|9.28333|80.8|Northern
+Vadduvakallu|9.28333|80.8|Northern
+Vairandakaddukulam|8.71667|80.15|Northern
+Vairavarpuliyankulam|8.75861|80.47778|Northern
+Vaiyakkarai|9.06667|79.8333|Northern
+Vakarai|8.13333|81.4333|Eastern
+Vakkappaddankandal-Metpuliyankulam|8.81667|79.9833|Northern
+Valaichchenai|7.91944|81.5314|Eastern
+Valaignarmadam|9.33333|80.75|Northern
+Valaipadu|9.35|80.06667|Northern
+Valaiyakadu|8.98333|79.8667|Northern
+Valalai|9.79583|80.10083|Northern
+Valamitiyawa|7.76667|80.6167|Southern
+Valantalai|9.75|79.8667|Northern
+Valappadu|9.35|80.0667|Northern
+Valayanmadam|9.33333|80.75|Northern
+Valikamam|9.75|80.01667|Northern
+Vallai|9.78333|80.1333|Northern
+Vallipunam|9.33333|80.63333|Northern
+Vallipuram|9.78333|80.2333|Northern
+Valliyappalai|8.96667|80.3167|Northern
+Valluvarpuram|9.36667|80.56667|Northern
+Valveddi|9.81667|80.1833|Northern
+Valvettithurai|9.81667|80.16667|Northern
+Valvetty|9.81667|80.16667|Northern
+Vanchiyankulam|8.86667|79.95|Northern
+Vanchiyankulam Mavilankeni|8.86667|79.9667|Northern
+Vankalaikkulam|8.85|79.95|Northern
+Vannamarutankulam|9.1|80.55|Northern
+Vannamoddai|8.8|80.05|Northern
+Vannankeni|9.6|80.3333|Northern
+Vannankulam|9.25|80.81667|Northern
+Vannankulam Jaffna|9.65222|80.0353|Northern
+Vannanpuliyankulam|8.7|80.5167|Northern
+Vannansinnakkulam|8.73333|80.4667|Northern
+Vannarpannai|9.68333|80.0167|Northern
+Vannarpannai North West|9.68333|80.0167|Northern
+Vannarpannai South East|9.66667|80.0167|Northern
+Vannarpannai South West|9.68333|80|Northern
+Vannerikulam|9.31667|80.23333|Northern
+Vannichchiyatidal|8.48333|81.1167|Northern
+Vannikulam|8.88333|80.3333|Northern
+Vannivilankulam|9.13333|80.3833|Northern
+Varani|9.75|80.2167|Northern
+Variveli|8.76667|79.95|Northern
+Varuttalaivilan|9.78333|80.05|Northern
+Vasavilan|9.78333|80.0667|Northern
+Vatharavattai|9.71667|80.15|Northern
+Vathiri|9.8|80.2|Northern
+Vattappalai|9.25|80.7667|Northern
+Vattirayan|9.6|80.4167|Northern
+Vavuniyanperiyakulam|8.88333|80.3667|Northern
+Vedamakilankulam|8.88333|80.5167|Northern
+Veddaiyadaippu|9.18333|80.2833|Northern
+Veddayamurippu|8.96667|79.9833|Northern
+Veddukaadu|9.55|80.18333|Northern
+Veddukkadu|9.55|80.1333|Northern
+Vedivaittakallu|8.93333|80.6833|Northern
+Veemankamam|9.8|80.03333|
+Veeramunai|7.36667|81.8|Eastern
+Velakulam|8.91667|80.0167|Northern
+Velanai|9.4|79.54|Northern
+Velankulam|8.7811|80.3212|Northern
+Velarchinnakkulam|8.9|80.5|Northern
+Velgalla|5.95|80.6167|Southern
+Velikkandal|9.43333|80.4833|Northern
+Velikkulam|8.75|80.5167|Northern
+Vellai|8.25|81.25|Northern
+Vellalakaddu|8.81667|79.9667|Northern
+Vellampakkaddy|9.66667|80.2167|Northern
+Vellampokkady|9.6593|80.2068|Northern
+Vellamullivaikkal|9.3|80.7833|Northern
+Vellankulam|9.18333|80.1167|Northern
+Vellavely|7.21667|81.7333|Eastern
+Veravil|9.35|80.0833|Northern
+Verugal|8.25|81.36667|
+Vetastenna|7.13333|80.7333|Central
+Vidaneachchigoda|6.06667|80.7833|Southern
+Vidaneachchilagegoda|6.06667|80.7833|Southern
+Vidanearachchigoda|6.06667|80.7833|Southern
+Vidanegegama|6.18333|80.9167|Southern
+Vidattalkaddusinnakulam|8.66667|80.35|Northern
+Vidattalpalai|9.63333|80.25|Northern
+Vidattaltivu|9.015|80.05|Northern
+Viguhumpola|7.33333|80.5667|Central
+Viharahena|6.36667|80.5833|Southern
+Vijithapura|8.03333|80.5333|North Central
+Villamparuku|9.06667|79.8333|Northern
+Villundy|8.56705|81.2322|Eastern
+Vimankallu|8.8|80.55|Northern
+Vimankaman|9.8|80.0333|Northern
+Viramanikkatevanturai|9.81667|80.05|Northern
+Viththakapuram|9.8|80.01667|Northern
+Vithyapuram|9.16667|80.65|Northern
+Viyaddikkulam|8.56667|79.9833|Northern
+Viyaparimulai|9.81667|80.2167|Northern
+Viyayadippannai|9.06667|79.8167|Northern
+Wabalakananke|6.03333|80.4|Southern
+Wadagolla|7.61667|80.65|Central
+Wadakahamada|7.5|80.7|Central
+Wadawala|7.11667|80.8|Central
+Wadawalakanda|7.36667|80.85|Central
+Wadduwa|6.66667|79.93333|Western
+Wademada|7.46667|80.5833|Central
+Wadiya|6.09558|80.76118|Central
+Wadiya|7.31667|80.91667|Southern
+Wadiyagoda|7.1633|80.7256|Southern
+Waduborala|6|80.4167|Southern
+Wadugegoda|5.98333|80.35|Southern
+Waduwadeniya|7.3001|80.374|Sabaragamuwa
+Waduweliwitiya|6.18333|80.2333|Southern
+Waga|6.88972|80.1278|
+Wagegoda|6.05|80.7833|Southern
+Wagugoda|6.08333|80.1667|Southern
+Wahacotte|7.71667|80.6|Central
+Wahala|6.05|80.4167|Southern
+Wahugepitiya|7.11667|80.6167|Central
+Wahunkoha|7.21667|80.5833|Central
+Wahunkoho|7.21667|80.5833|Central
+Wahupitiya|7.11667|80.6167|Central
+Waikkal|7.28333|79.85|Central
+Walagama|7.2836|80.3284|Central
+Walakumbura|7.3117|80.2587|Central
+Walala|7.31667|80.6833|Central
+Walala Megodagammedda|7.33333|80.6833|Central
+Walalawela|7.15|80.7833|Central
+Walapane|7.33333|80.75|
+Walasgala|5.99111|80.7019|
+Walaswewa|8.0287|80.3221|Central
+Walatalawa|7.51667|80.6667|Central
+Walawela|7.5187|80.598|Central
+Walgampaya|7.28333|80.5167|Central
+Walgovuwagoda|7.28333|80.5167|Central
+Walgowagoda|7.28333|80.5167|Central
+Wallahagoda|7.15|80.5667|Central
+Walliwela|7.56667|80.6167|Central
+Walmoruwa|7.6543|80.6283|Central
+Walpoladeniya|7.35|80.65|Central
+Walpolamulla|7.49428|80.76871|Central
+Walugama|7.15|80.8|Central
+Wanduradeniya|7.1875|80.3236|Sabaragamuwa
+Wannipola|7.2|80.5833|Central
+Waradiwala|7.35|80.7667|Central
+Waragashinna|7.36667|80.6167|Central
+Warakadeniya|7.3707|80.5834|Central
+Warakapola|7.2308|80.1975|
+Warakawa|7.08333|80.5333|Central
+Waralaggama|7.5|80.6|Central
+Wariyapola|7.6333|80.2333|North Western
+Wataddora|7.05|80.6167|Central
+Watadeniya|7.2|80.55|Central
+Watapana|7.33333|80.75|Central
+Watapuluwa|7.31667|80.65|Central
+Wathumulla|7.1|80.8667|Central
+Wattahena|7.13333|80.6|Central
+Wattala|6.98333|79.88333|Western
+Wattappola|7.23333|80.55|Central
+Wattegama|6.79889|81.48083|
+Wattegama|7.35028|80.6825|Central
+Wattegammedda|7.349|80.684|Central
+Wattehena|7.1394|80.6009|Central
+Waturakumbura|7.3|80.55|Central
+Watuwala|7.33333|80.6|Central
+Waulpane|6.42528|80.73294|
+Wavinna|7.33333|80.7|Central
+Wawinna|7.2242|81.5566|Central
+Wayikkal|7.28333|79.85|Central
+Wedagolla|7.61667|80.65|Central
+Wedigammedda|7.26667|80.7833|Central
+Weeraketiya|6.1668|80.7467|Southern
+Wegala|7.28333|80.8|Central
+Wegama Lower|7.13333|80.75|Central
+Wegiriya|7.2|80.5667|Central
+Wegodapola|7.7|80.5667|Central
+Wehera|7.68333|80.5833|Central
+Wehigala East|7.4|80.6833|Central
+Wekanda|5.9778|80.3979|Central
+Welagama|7.71667|80.0167|Central
+Welaihala Udugoda|7.36667|80.7|Central
+Welamboda|7.2|80.55|Central
+Welangahawatta|7.48333|80.7|Central
+Welapahala|7.11667|80.8|Central
+Welemulla|7.66667|80.5833|Central
+Welgahawadiya|7.38333|80.9333|Central
+Weligama|5.975|80.42972|Southern
+Weliganwala|7.6|80.6|Central
+Weligodapola|7.33333|80.45|Central
+Welikada|6.91667|79.88333|Western
+Welikadawatte|6.9049|79.8968|
+Welikanda|7.95|81.247|North Central
+Welimada|6.9011|80.9228|Uva
+Welisara|7.0281|79.9014|
+Welivita|7.31667|80.5|Central
+Weliwaranagolla|7.6|80.8167|Central
+Weliweriya|7.03168|80.0285|Western
+Weliwita Ihalagama|7.31667|80.5|Central
+Weliwita Pahalagama|7.31667|80.5|Central
+Wellagiriya|7.06667|80.7833|Central
+Wellawatte|6.87556|79.8608|Western
+Welletota Kadaweediya|7.3|80.75|Central
+Welpanala|7.51667|80.6|Central
+Wennappuwa|7.34667|79.83667|North Western
+Wepatana|7.31667|80.7333|Central
+Weragalawatta|7.76667|80.5833|Central
+Weragama|6.6734|80.3334|Sabaragamuwa
+Weragamtota|7.31667|80.9833|Central
+Weragantota|7.31667|80.9833|Central
+Werakonkanda|7.48333|80.65|Central
+Weralanda|7.71667|80.55|Central
+Weralugastenna|7.51667|80.7|Central
+Werapitiya|7.36667|80.75|Central
+Werapitiya Ihalagama|7.36667|80.75|Central
+Werapitiya Pahalagammedda|7.35|80.75|Central
+Werawala|7.21667|80.55|Central
+Werella|7.08333|80.8667|Central
+West Watta|7.51667|80.65|Central
+Wetagepota|7.08333|80.8167|Central
+Wetakedeniya|7.11667|80.5|Central
+Wetakepotha|7.03333|80.6333|Central
+Wetalawa|7.05|80.65|Central
+Wetasseyaya|7.46667|80.65|Central
+Weteggama|7.1|80.8|Central
+Wettehena|7.81667|80.5667|Central
+Weuda|7.4|80.16667|
+Wewakele|7.13333|80.8667|Central
+Wewatenna|7.1021|81.0544|Central
+Wewelmada|7.48333|80.6833|Central
+Wewelobe|7.36667|80.9|Central
+Wickramasinghepura|6.85|79.95|
+Wickramasinhapura|6.85778|79.9617|Western
+Wiguhumpola|7.33333|80.5667|Central
+Wijebahukanda|7.01667|80.6167|Central
+Wilgomuwa|7.51667|80.9333|Central
+Wiyanamulla|7.33333|80.65|Central
+Yahalatenne|7.31667|80.5833|Central
+Yahaletenna|7.31667|80.5833|Central
+Yakadagoda|7.13333|80.75|Central
+Yakgahapitiya|7.3|80.6667|Central
+Yakkala|7.08596|80.0333|Western
+Yakkuragala|7.85|80.6833|Central
+Yalegoda|7.25|80.5833|Central
+Yamanmulla|7.65|80.6|Central
+Yapagama|7.83333|80.65|Central
+Yasanampura|7.61667|80.6167|Central
+Yatala|7.35|80.4667|Central
+Yatapana|7.13333|80.3|Central
+Yatawatta|7.56667|80.5833|Central
+Yatigammana|7.3|80.5|Central
+Yatihalagala|7.3|80.6|Central
+Yatihalagala Pallegama|7.3|80.6|Central
+Yatimadura|7.08333|80.9333|Central
+Yatipiyangala|7.11667|80.5833|Central
+Yatirawana|7.33333|80.6667|Central
+Yatiwawala|7.33333|80.6167|Central
+Yatiwehera|7.71667|80.5833|Central
+Yatiwella|7.08333|80.8|Central
+Yatiyanthota|7.02417|80.30056|
+Yattakule|7.21667|80.5833|Central
+Yodagannawa|7.66667|80.9833|Central
+Yogapuram|9.11667|80.3|Northern
+Yombuweltenna|7.1|80.9|Central
+Yompana|7.03333|80.95|Central
+Yonpane|7.16083|80.88111|Central
+Yudaganawa|6.76667|81.23333|Uva

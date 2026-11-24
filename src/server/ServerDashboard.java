@@ -148,10 +148,6 @@ public class ServerDashboard extends JFrame {
         RoundPanel chip = new RoundPanel(new BorderLayout(), Theme.alpha(Theme.ACCENT, 0.12), Theme.alpha(Theme.ACCENT, 0.3), 999);
         chip.setBorder(BorderFactory.createEmptyBorder(6, 12, 6, 12));
         chip.add(Ui.label("Server", 700, 13, Theme.ACCENT));
-        RoundPanel live = new RoundPanel(new BorderLayout(8, 0), Theme.alpha(Theme.SAGE, 0.08), Theme.alpha(Theme.SAGE, 0.25), 999);
-        live.setBorder(BorderFactory.createEmptyBorder(8, 12, 8, 14));
-        live.add(new PulseDot(Theme.SAGE), BorderLayout.WEST);
-        live.add(Ui.label("Running \u00B7 TCP port " + server.port(), 600, 13, Theme.SAGE_TEXT), BorderLayout.CENTER);
         JLabel started = Ui.label("Started " + Offer.fmt(server.startedAt()) + " \u00B7 " + server.address(), 500, 13, Theme.DIM);
         PillButton lock = new PillButton("Lock", PillButton.Style.GHOST).icon(Icons.LOCK, false).size(42, 14);
         lock.addActionListener(e -> {
@@ -159,7 +155,7 @@ public class ServerDashboard extends JFrame {
             server.log().log("SERVER", "Dashboard locked");
             password.field().requestFocusInWindow();
         });
-        JPanel left = Ui.row(16, new Logo(38, true), chip, live, started);
+        JPanel left = Ui.row(16, new Logo(38, true), chip, started);
         bar.add(left, BorderLayout.WEST);
         bar.add(lock, BorderLayout.EAST);
         return bar;

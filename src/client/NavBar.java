@@ -2,14 +2,12 @@ package client;
 
 import ui.Icons;
 import ui.Logo;
-import ui.PulseDot;
 import ui.RoundPanel;
 import ui.Theme;
 import ui.Ui;
 
 import javax.swing.BorderFactory;
 import javax.swing.JComponent;
-import javax.swing.JLabel;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
@@ -34,8 +32,6 @@ public class NavBar extends JPanel {
 
     private final ClientApp app;
     private final List<Item> items = new ArrayList<>();
-    private final JLabel live = Ui.label("Live", 600, 13, Theme.SAGE_TEXT);
-    private final PulseDot dot = new PulseDot(Theme.SAGE);
     private final Bell bell = new Bell();
     private final UserChip user = new UserChip();
     private String active = "";
@@ -67,11 +63,8 @@ public class NavBar extends JPanel {
         }
         JPanel center = Ui.clear(new FlowLayout(FlowLayout.CENTER, 0, 0));
         center.add(menu);
-        RoundPanel livePill = new RoundPanel(new BorderLayout(8, 0), Theme.alpha(Theme.SAGE, 0.08), Theme.alpha(Theme.SAGE, 0.25), 999);
-        livePill.setBorder(BorderFactory.createEmptyBorder(11, 12, 11, 14));
-        livePill.add(dot, BorderLayout.WEST);
-        livePill.add(live, BorderLayout.CENTER);
-        JPanel right = Ui.row(10, livePill, bell, user);
+        JPanel right = Ui.row(10, bell, user);
+
         bar.add(logo, BorderLayout.WEST);
         bar.add(center, BorderLayout.CENTER);
         bar.add(right, BorderLayout.EAST);
@@ -84,7 +77,6 @@ public class NavBar extends JPanel {
     }
 
     public void update(String name, String address, int unread) {
-        live.setText("Live \u00B7 " + address);
         user.name = name;
         bell.unread = unread;
         revalidate();

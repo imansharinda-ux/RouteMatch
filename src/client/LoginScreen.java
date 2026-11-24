@@ -108,7 +108,7 @@ public class LoginScreen extends Screen {
         host.addTrailing(divider);
         host.addTrailing(port);
         connect.icon(Icons.ARROW_RIGHT, true).size(52, 16).radius(16);
-        JPanel statusRow = Ui.row(8, dot, Ui.fill(status), Ui.label("TCP", 600, 13, Theme.FAINT));
+        JPanel statusRow = Ui.row(8, dot, Ui.fill(status));
         statusRow.setBorder(BorderFactory.createCompoundBorder(
                 BorderFactory.createMatteBorder(1, 0, 0, 0, new Color(255, 255, 255, 14)),
                 BorderFactory.createEmptyBorder(14, 0, 0, 0)));

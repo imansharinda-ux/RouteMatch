@@ -66,15 +66,10 @@ public class Server {
         try {
             while (true) {
                 Socket client = serverSocket.accept();
-                try {
-                    ClientHandler ct = new ClientHandler(client, currentClients, engine, log);
-                    handlers.add(ct);
-                    ct.start();
-                    currentClients++;
-                } catch (IOException e) {
-                    log.log("ERROR", "Could not start a thread for " + client.getInetAddress().getHostAddress());
-                    client.close();
-                }
+                ClientHandler ct = new ClientHandler(client, currentClients, engine, log);
+                handlers.add(ct);
+                ct.start();
+                currentClients++;
             }
         } finally {
             serverSocket.close();

@@ -6,11 +6,9 @@ import javax.swing.SwingUtilities;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.Socket;
-import java.nio.charset.StandardCharsets;
 
 public class Connection extends Thread {
 
@@ -37,8 +35,8 @@ public class Connection extends Thread {
         try {
             InetAddress ipAddress = InetAddress.getByName(host);
             socket = new Socket(ipAddress, port);
-            in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
-            out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), StandardCharsets.UTF_8), true);
+            in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            out = new PrintWriter(socket.getOutputStream(), true);
         } catch (IOException e) {
             SwingUtilities.invokeLater(() -> app.connectFailed(host, port));
             return;

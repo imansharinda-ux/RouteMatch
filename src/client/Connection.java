@@ -8,51 +8,81 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
-import java.net.InetSocketAddress;
+import java.net.InetAddress;
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
-import java.util.function.Consumer;
 
-public class Connection {
+public class Connection extends Thread {
 
-    private final Socket socket;
-    private final BufferedReader in;
-    private final PrintWriter out;
+    private final String host;
+    private final int port;
+    private final String username;
+    private final ClientApp app;
+    private Socket socket;
+    private BufferedReader in;
+    private volatile PrintWriter out;
     private volatile boolean closed;
 
-    public Connection(String host, int port) throws IOException {
-        socket = new Socket();
-        socket.connect(new InetSocketAddress(host, port), 4000);
-        in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
-        out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), StandardCharsets.UTF_8), true);
+    public Connection(String host, int port, String username, ClientApp app) {
+        super("server-listener");
+        this.host = host;
+        this.port = port;
+        this.username = username;
+        this.app = app;
+        setDaemon(true);
     }
 
-    public void listen(Consumer<String> onMessage, Runnable onClosed) {
-        Thread reader = new Thread(() -> {
-            try {
-                String line;
-                while ((line = in.readLine()) != null) {
-                    String message = line;
-                    SwingUtilities.invokeLater(() -> onMessage.accept(message));
+    @Override
+    public void run() {
+        try {
+            InetAddress ipAddress = InetAddress.getByName(host);
+            socket = new Socket(ipAddress, port);
+            in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
+            out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), StandardCharsets.UTF_8), true);
+        } catch (IOException e) {
+            SwingUtilities.invokeLater(() -> app.connectFailed(host, port));
+            return;
+        }
+        send(Protocol.LOGIN, username);
+        try {
+            while (true) {
+                String input = in.readLine();
+                if (input == null) {
+                    break;
                 }
-            } catch (IOException ignored) {
+                SwingUtilities.invokeLater(() -> app.handle(input));
             }
+        } catch (IOException ignored) {
+        } finally {
+            closeSocket();
             if (!closed) {
-                SwingUtilities.invokeLater(onClosed);
+                SwingUtilities.invokeLater(app::closed);
             }
-        }, "server-listener");
-        reader.setDaemon(true);
-        reader.start();
+        }
     }
 
     public synchronized void send(String command, Object... parts) {
-        out.println(Protocol.build(command, parts));
+        if (out != null) {
+            out.println(Protocol.build(command, parts));
+        }
     }
 
     public void close() {
         closed = true;
+        closeSocket();
+    }
+
+    private void closeSocket() {
         try {
-            socket.close();
+            if (socket != null) {
+                socket.close();
+            }
+            if (out != null) {
+                out.close();
+            }
+            if (in != null) {
+                in.close();
+            }
         } catch (IOException ignored) {
         }
     }

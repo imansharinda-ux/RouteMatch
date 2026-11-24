@@ -15,36 +15,25 @@ import java.net.Socket;
 import java.time.LocalTime;
 import java.util.Collections;
 import java.util.Properties;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadFactory;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.atomic.AtomicInteger;
+import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class Server {
-
-    public static final int MAX_CLIENTS = 12;
 
     private final int port;
     private final String password;
     private final ServerLog log = new ServerLog("server.log");
     private final MatchEngine engine = new MatchEngine(log);
-    private final ThreadPoolExecutor pool;
+    private final List<ClientHandler> handlers = new CopyOnWriteArrayList<>();
     private final LocalTime startedAt = LocalTime.now();
     private final String address = localAddress();
 
     public Server(int port, String password) {
         this.port = port;
         this.password = password;
-        AtomicInteger count = new AtomicInteger();
-        ThreadFactory factory = r -> {
-            Thread t = new Thread(r, "client-thread-" + count.incrementAndGet());
-            t.setDaemon(true);
-            return t;
-        };
-        this.pool = (ThreadPoolExecutor) Executors.newFixedThreadPool(MAX_CLIENTS, factory);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Theme.install();
         Properties config = loadConfig();
         int port = Protocol.DEFAULT_PORT;
@@ -54,7 +43,11 @@ public class Server {
         }
         Server server = new Server(port, config.getProperty("admin.password"));
         SwingUtilities.invokeLater(() -> new ServerDashboard(server).setVisible(true));
-        server.listen();
+        try {
+            server.listen();
+        } catch (IOException e) {
+            server.log.log("ERROR", "Server stopped: " + e.getMessage());
+        }
     }
 
     private static Properties loadConfig() {
@@ -66,15 +59,25 @@ public class Server {
         return p;
     }
 
-    private void listen() {
-        try (ServerSocket serverSocket = new ServerSocket(port)) {
-            log.log("SERVER", "RouteMatch server started on " + address + ":" + port);
+    private void listen() throws IOException {
+        ServerSocket serverSocket = new ServerSocket(port);
+        log.log("SERVER", "RouteMatch server started on " + address + ":" + port);
+        int currentClients = 1;
+        try {
             while (true) {
-                Socket socket = serverSocket.accept();
-                pool.execute(new ClientHandler(socket, engine, log));
+                Socket client = serverSocket.accept();
+                try {
+                    ClientHandler ct = new ClientHandler(client, currentClients, engine, log);
+                    handlers.add(ct);
+                    ct.start();
+                    currentClients++;
+                } catch (IOException e) {
+                    log.log("ERROR", "Could not start a thread for " + client.getInetAddress().getHostAddress());
+                    client.close();
+                }
             }
-        } catch (IOException e) {
-            log.log("ERROR", "Server stopped: " + e.getMessage());
+        } finally {
+            serverSocket.close();
         }
     }
 
@@ -111,8 +114,9 @@ public class Server {
         return engine;
     }
 
-    public ThreadPoolExecutor pool() {
-        return pool;
+    public int runningThreads() {
+        handlers.removeIf(h -> !h.isAlive());
+        return handlers.size();
     }
 
     public LocalTime startedAt() {

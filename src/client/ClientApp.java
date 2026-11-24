@@ -24,7 +24,6 @@ import java.awt.event.ComponentEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.geom.Ellipse2D;
-import java.io.IOException;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -151,21 +150,14 @@ public class ClientApp {
 
     public void connect(String name, String host, int port) {
         login.status(LoginScreen.Status.BUSY, "Connecting to " + host + ":" + port + "\u2026");
-        Thread t = new Thread(() -> {
-            try {
-                Connection c = new Connection(host, port);
-                SwingUtilities.invokeLater(() -> {
-                    connection = c;
-                    address = host + ":" + port;
-                    c.listen(this::handle, this::closed);
-                    c.send(Protocol.LOGIN, name);
-                });
-            } catch (IOException e) {
-                SwingUtilities.invokeLater(() -> login.status(LoginScreen.Status.ERROR, "Could not reach a server at " + host + ":" + port));
-            }
-        }, "connect");
-        t.setDaemon(true);
-        t.start();
+        address = host + ":" + port;
+        connection = new Connection(host, port, name, this);
+        connection.start();
+    }
+
+    void connectFailed(String host, int port) {
+        connection = null;
+        login.status(LoginScreen.Status.ERROR, "Could not reach a server at " + host + ":" + port);
     }
 
     public void send(String command, Object... parts) {
@@ -196,7 +188,7 @@ public class ClientApp {
         offer.reset();
     }
 
-    private void closed() {
+    void closed() {
         boolean wasIn = !user.isEmpty();
         reset();
         if (wasIn) {
@@ -208,7 +200,7 @@ public class ClientApp {
         }
     }
 
-    private void handle(String line) {
+    void handle(String line) {
         String[] p = Protocol.parse(line);
         switch (p[0]) {
             case Protocol.WELCOME:

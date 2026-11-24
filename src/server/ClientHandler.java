@@ -15,33 +15,37 @@ import java.nio.charset.StandardCharsets;
 import java.time.LocalTime;
 import java.util.List;
 
-public class ClientHandler implements Runnable {
+public class ClientHandler extends Thread {
 
-    private final Socket socket;
+    private final Socket client;
+    private final BufferedReader in;
+    private final PrintWriter out;
+    private final int clientId;
     private final MatchEngine engine;
     private final ServerLog log;
     private final String ip;
     private final LocalTime since = LocalTime.now();
-    private PrintWriter out;
     private String name;
-    private String threadName = "-";
 
-    public ClientHandler(Socket socket, MatchEngine engine, ServerLog log) {
-        this.socket = socket;
+    public ClientHandler(Socket clientSocket, int cid, MatchEngine engine, ServerLog log) throws IOException {
+        super("client-thread-" + cid);
+        this.client = clientSocket;
+        this.clientId = cid;
         this.engine = engine;
         this.log = log;
-        this.ip = socket.getInetAddress().getHostAddress();
+        this.ip = client.getInetAddress().getHostAddress();
+        in = new BufferedReader(new InputStreamReader(client.getInputStream(), StandardCharsets.UTF_8));
+        out = new PrintWriter(new OutputStreamWriter(client.getOutputStream(), StandardCharsets.UTF_8), true);
+        setDaemon(true);
     }
 
     @Override
     public void run() {
-        threadName = Thread.currentThread().getName();
-        log.log("CONNECT", ip + " connected (" + threadName + ")");
-        try (BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8))) {
-            out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), StandardCharsets.UTF_8), true);
-            String line;
-            while ((line = in.readLine()) != null) {
-                if (!handle(line)) {
+        log.log("CONNECT", "Client " + clientId + " connected from " + ip + " (" + getName() + ")");
+        try {
+            while (true) {
+                String input = in.readLine();
+                if (input == null || !handle(input)) {
                     break;
                 }
             }
@@ -50,8 +54,11 @@ public class ClientHandler implements Runnable {
         } finally {
             engine.logout(name);
             try {
-                socket.close();
-            } catch (IOException ignored) {
+                client.close();
+                out.close();
+                in.close();
+            } catch (IOException e) {
+                log.log("ERROR", "Could not close client " + clientId + ": " + e.getMessage());
             }
             log.log("DISCONNECT", (name == null ? ip : name) + " disconnected");
         }
@@ -121,12 +128,8 @@ public class ClientHandler implements Runnable {
     }
 
     public void send(String message) {
-        PrintWriter w = out;
-        if (w == null) {
-            return;
-        }
-        synchronized (this) {
-            w.println(message);
+        synchronized (out) {
+            out.println(message);
         }
     }
 
@@ -139,7 +142,7 @@ public class ClientHandler implements Runnable {
     }
 
     public String threadName() {
-        return threadName;
+        return getName();
     }
 
     public LocalTime since() {

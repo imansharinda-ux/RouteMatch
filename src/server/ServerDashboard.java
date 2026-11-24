@@ -122,7 +122,7 @@ public class ServerDashboard extends JFrame {
         stats.add(stat("Matches today", matches, Icons.TICKET, Theme.ACCENT_HOVER));
         RoundPanel threads = new RoundPanel(new BorderLayout(0, 12), Theme.PANEL, Theme.LINE_SOFT, 20);
         threads.setBorder(BorderFactory.createEmptyBorder(16, 18, 16, 18));
-        threads.add(Ui.row(8, Ui.fill(Ui.label("Worker threads", 600, 13, Theme.MUTED)), busy), BorderLayout.NORTH);
+        threads.add(Ui.row(8, Ui.fill(Ui.label("Client threads", 600, 13, Theme.MUTED)), busy), BorderLayout.NORTH);
         threads.add(segments, BorderLayout.CENTER);
         stats.add(threads);
         body.add(stats, BorderLayout.NORTH);
@@ -189,9 +189,9 @@ public class ServerDashboard extends JFrame {
         offers.setText(String.valueOf(engine.offerCount()));
         requests.setText(String.valueOf(engine.requestCount()));
         matches.setText(String.valueOf(engine.matchCount()));
-        int active = server.pool().getActiveCount();
-        segments.set(active, Server.MAX_CLIENTS);
-        busy.setText(active + " / " + Server.MAX_CLIENTS + " busy");
+        int active = server.runningThreads();
+        segments.set(active, Math.max(12, active));
+        busy.setText(active + " running");
         List<String[]> clientRows = new ArrayList<>();
         for (ClientHandler h : engine.clients()) {
             clientRows.add(new String[]{h.name(), h.ip(), h.threadName(), Offer.fmt(h.since())});
@@ -219,7 +219,7 @@ public class ServerDashboard extends JFrame {
 
     private static final class Segments extends JComponent {
         private int on;
-        private int total = Server.MAX_CLIENTS;
+        private int total = 12;
 
         void set(int on, int total) {
             this.on = on;

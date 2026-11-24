@@ -30,6 +30,7 @@ Every screen shows **real data** created by users through the server. Nothing is
 - **Sign in** with a username, server IP and port
 - **Home** — live list of ride offers with a Sri Lanka map that draws the selected route
 - **Offer a ride** — start, destination, departure time, vehicle, seats and a pickup note, with a live route preview
+- **Any town in Sri Lanka** — type a town or city name (2,400+ places) in the From / To fields and pick it from the suggestions
 - **Find a ride** — start, destination, preferred time and a flexible window (±15 / 30 / 60 minutes)
 - **Time-window matching** — the server returns every offer inside the window, closest departure first
 - **Seat booking** — book or cancel a seat in one click
@@ -75,6 +76,7 @@ Every screen shows **real data** created by users through the server. Nothing is
 - **java.time** — time-window calculations
 - **Java Swing + Java2D** — custom-painted desktop GUI (no external libraries)
 - **Inter Tight** font (SIL Open Font License)
+- Sri Lankan towns data from [Geomelon](https://geomelon.dev) / Wikidata (CC0)
 - **IntelliJ IDEA**, **Git & GitHub**
 
 ---
@@ -84,7 +86,7 @@ Every screen shows **real data** created by users through the server. Nothing is
 ```
 RouteMatch/
 ├── src/
-│   ├── common/   # Protocol, Offer, Request, Vehicle, Places (map places + road routes)
+│   ├── common/   # Protocol, Offer, Request, Vehicle, Places (towns + road routes), lk_places.txt (Sri Lankan towns)
 │   ├── server/   # Server, ClientHandler, MatchEngine, ServerLog, ServerDashboard
 │   ├── ui/       # Theme, fonts, icons, logo, buttons, fields, loader, toast
 │   └── client/   # ClientApp, Connection, NavBar, MapPanel and the pages
@@ -109,14 +111,49 @@ Create a file named `config.properties` in the project root:
 ```
 admin.password=<your-admin-password>
 ```
-You can also add `server.port=5000` to change the port. This file is listed in `.gitignore` and is never pushed to GitHub.
+You can also add `server.port=5050` to change the port (the default is `5000`). This file is listed in `.gitignore` and is never pushed to GitHub.
 
-### 3. Start the server
-Run `server/Server.java`. The dashboard opens and asks for the admin password. The header shows the server's IP address.
+### 3. Compile
+Open a terminal in the project folder and run:
+```powershell
+javac -d out (Get-ChildItem -Recurse src -Filter *.java).FullName
+```
 
-### 4. Start one or more clients
-Run `client/ClientApp.java`. Enter a username, the server IP (`localhost` on the same computer) and port `5000`, then press **Connect**.
-Open several clients, or run clients on other laptops in the same Wi-Fi network, to test multiple users at the same time.
+### 4. Start the server
+```powershell
+java -cp "out;src" server.Server
+```
+The dashboard opens and asks for the admin password. The header shows the server's IP address (for example `Started 6:56 PM · 172.20.10.2`).
+
+### 5. Start one or more clients
+Open a new terminal for each client:
+```powershell
+java -cp "out;src" client.ClientApp
+```
+Enter a username, the server IP (`localhost` on the same computer) and the port, then press **Connect**.
+Every user must use a different username.
+
+### 6. Connect from other laptops
+1. Connect all laptops to the same Wi-Fi network or phone hotspot.
+2. Run the server on one laptop only.
+3. On the other laptops, run only the client and enter the server laptop's IP address shown on the dashboard.
+4. If the client cannot connect, allow the port through Windows Firewall on the server laptop (PowerShell as administrator):
+   ```powershell
+   New-NetFirewallRule -DisplayName "RouteMatch 5050" -Direction Inbound -Protocol TCP -LocalPort 5050 -Action Allow
+   ```
+5. Check the connection from a client laptop:
+   ```powershell
+   Test-NetConnection <server-ip> -Port 5050
+   ```
+   Some university Wi-Fi networks block connections between laptops. Use a phone hotspot in that case.
+
+### Troubleshooting
+| Problem | Fix |
+|---|---|
+| Dashboard shows `config.properties with admin.password was not found` | Create `config.properties` in the project folder and start the server from that folder |
+| Log shows `Address already in use` | Another program (for example Docker) is using the port. Add `server.port=5050` to `config.properties` and use port `5050` in the client |
+| Client shows `Could not reach a server` | Start the server first, and check the IP, port and firewall |
+| `package common does not exist` when running | Compile the whole `src` folder with the command in step 3, not a single file |
 
 ---
 
